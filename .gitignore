@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+.venv-py311/
+venv/
+ENV/
+env/
+
+# Logs
+*.log
+api.log
+train.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large data files (exceeding GitHub limits)
+data/valio_aimo_sales_and_deliveries_junction_2025.csv
+data/valio_aimo_product_data_junction_2025.json
+data/valio_aimo_purchases_junction_2025.csv
+artifacts/processed_sales_data.parquet
+artifacts/features_for_modeling.parquet

@@ -1,0 +1,501 @@
+Tuotekoodi;Tuote;EAN koodi;Erän koko;Sisältää;Tilausyksikkö;Yksikköhinta;Vertailuhinta;Vertailuhinnan yksikkö;Yhteensä (sis. alv);Nettohinta;Muu alennus;Yksikköhinta ilman alennusta;Vero EUR;Vero %;Valmistaja;Valmistajan nimi;Kategorian nimi
+8093786;Santa Maria 980g Chermoula Pesto maustetahna;7311312009074;1;1;kpl;10,45;10,66;kg;11,91;Ei;Kyllä;13,55;1,46;0;1023;SANTA MARIA AB;Maustekastikkeet
+8093859;Santa Maria 750g Preserved Lemon Paste;7311312009104;1;1;kpl;9,79;13,05;kg;11,16;Ei;Kyllä;12,69;1,37;0;1023;SANTA MARIA AB;Maustetahnat
+8093749;Santa Maria 1000g Harissa Sauce;7311312009081;1;1;kpl;9,15;9,15;kg;10,43;Ei;Kyllä;11,85;1,28;0;1023;SANTA MARIA AB;Maustekastikkeet
+8043409;Valio Hyvä suomalainen Arki® Eila® kevytmaitojuoma 1 l laktoositon;6408430000487;1;1;kpl;1,44;1,44;l;1,64;Ei;Ei;1,44;0,2;0;96;VALIO OY TUORE;Maidot ja piimät
+8023043;Valio Eila® voi 500 g laktoositon;6408430310654;1;1;kpl;4,91;9,82;kg;5,6;Ei;Ei;4,91;0,69;0;96;VALIO OY TUORE;Voirasiat ja -paketit
+8054679;Valio suurtalous kuohukerma 1,75 l laktoositon;6408432096266;1;1;kpl;8,32;4,75;l;9,48;Ei;Ei;8,32;1,16;0;96;VALIO OY TUORE;Kermat
+8079322;Valio kevytmaito 1 l ESL;6408430102099;1;1;kpl;1,18;1,18;l;1,35;Ei;Ei;1,18;0,17;0;96;VALIO OY TUORE;Maidot ja piimät
+8090987;Oddlygood® Barista kaurajuoma 1 l UHT gluteeniton;6430081490041;1;1;kpl;1,83;1,83;l;2,09;Ei;Ei;1,83;0,26;0;96;VALIO OY TUORE;Kasvipohjaiset maidonkaltaiset
+9908840;Valio Eila® rasvaton piimä 1 l laktoositon;6408430001996;1;1;kpl;1,91;1,91;l;2,18;Ei;Ei;1,91;0,27;0;96;VALIO OY TUORE;Maidot ja piimät
+9906525;Valio raejuusto 2,5 kg laktoositon;6408430043125;1;1;kpl;12,15;4,86;kg;13,85;Ei;Ei;12,15;1,7;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8042224;Valio kahvimaito 1 l laktoositon UHT;6408430000500;1;1;kpl;1,95;1,95;l;2,22;Ei;Ei;1,95;0,27;0;96;VALIO OY TUORE;Maidot ja piimät
+8079270;Valio rasvaton maito 1 l ESL;6408430102082;1;1;kpl;1,03;1,03;l;1,17;Ei;Ei;1,03;0,14;0;96;VALIO OY TUORE;Maidot ja piimät
+8042234;Valio vispikerma 1 l UHT laktoositon;6408430014996;1;1;kpl;5,97;5,97;l;6,81;Ei;Ei;5,97;0,84;0;96;VALIO OY TUORE;Kermat
+8027;Valio kahvikerma 1 l laktoositon;6408430001507;1;1;kpl;4,08;4,08;l;4,65;Ei;Ei;4,08;0,57;0;96;VALIO OY TUORE;Kermat
+9908839;Valio Gefilus® AB-piimä 1% 1 l laktoositon;6408430001859;1;1;kpl;1,73;1,73;l;1,97;Ei;Ei;1,73;0,24;0;96;VALIO OY TUORE;Maidot ja piimät
+8043410;Valio Hyvä suomalainen Arki® Eila® rasvaton maitojuoma 1 l laktoositon;6408430000494;1;1;kpl;1,31;1,31;l;1,49;Ei;Ei;1,31;0,18;0;96;VALIO OY TUORE;Maidot ja piimät
+9906180;Valiojogurtti® 200 g mansikka laktoositon;6408430002016;1;1;kpl;0,56;2,8;kg;0,64;Ei;Ei;0,56;0,08;0;96;VALIO OY TUORE;Jogurtit
+9906579;Valio mustikkakeitto 1 kg;6408430062119;1;1;kpl;3,02;3,02;kg;3,44;Ei;Ei;3,02;0,42;0;96;VALIO OY TUORE;Mehukeitot
+8042238;Valio ruokakerma 15 % 1 l UHT laktoositon;6408430014958;1;1;kpl;3,26;3,26;l;3,72;Ei;Ei;3,26;0,46;0;96;VALIO OY TUORE;Kermat
+8074323;Valio Hyvä suomalainen Arki® kermajuustoviipale e800 g;6408430342747;1;1;kpl;8,97;11,21;kg;10,23;Ei;Ei;8,97;1,26;0;96;VALIO OY TUORE;Viipalejuustot
+9906182;Valiojogurtti® 200 g hedelmäpommi laktoositon;6408430002030;1;1;kpl;0,56;2,8;kg;0,64;Ei;Ei;0,56;0,08;0;96;VALIO OY TUORE;Jogurtit
+9906181;Valiojogurtti® 200 g banaani laktoositon;6408430002023;1;1;kpl;0,56;2,8;kg;0,64;Ei;Ei;0,56;0,08;0;96;VALIO OY TUORE;Jogurtit
+8064735;Valio Hyvä suomalainen Arki® emmentalviipale e800 g;6408430341900;1;1;kpl;8,97;11,21;kg;10,23;Ei;Ei;8,97;1,26;0;96;VALIO OY TUORE;Viipalejuustot
+9906581;Valio mansikkakeitto 1 kg;6408430062133;1;1;kpl;3,02;3,02;kg;3,44;Ei;Ei;3,02;0,42;0;96;VALIO OY TUORE;Mehukeitot
+8053441;Valio Oltermanni® 17 % e300 g viipale;6408430340538;1;1;kpl;4,56;15,2;kg;5,2;Ei;Ei;4,56;0,64;0;96;VALIO OY TUORE;Viipalejuustot
+9906378;Valio AURA® e1 kg murennettu sinihomejuusto;6408430033034;1;1;kpl;16,04;16,04;kg;18,29;Ei;Ei;16,04;2,25;0;96;VALIO OY TUORE;Sini- ja punahomejuustot
+8007755;Valio Eila® ykkösviili 200 g maustamaton laktoositon;6408430004539;1;1;kpl;0,68;3,4;kg;0,78;Ei;Ei;0,68;0,1;0;96;VALIO OY TUORE;Viilit
+9906515;Valio maitorahka 5 kg laktoositon;6408430042241;1;1;kpl;21,69;4,34;kg;24,73;Ei;Ei;21,69;3,04;0;96;VALIO OY TUORE;Rahkat
+8042230;Valio täysmaito 1 l laktoositon UHT;6408430011674;1;1;kpl;1,9;1,9;l;2,17;Ei;Ei;1,9;0,27;0;96;VALIO OY TUORE;Maidot ja piimät
+9906508;Valio smetana 2 kg laktoositon;6408430041084;1;1;kpl;20,51;10,26;kg;23,38;Ei;Ei;20,51;2,87;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+9906195;Valiojogurtti® 200 g vanilja laktoositon;6408430002665;1;1;kpl;0,56;2,8;kg;0,64;Ei;Ei;0,56;0,08;0;96;VALIO OY TUORE;Jogurtit
+8042228;Valio kevytmaito 1 l laktoositon UHT;6408430011667;1;1;kpl;1,79;1,79;l;2,04;Ei;Ei;1,79;0,25;0;96;VALIO OY TUORE;Maidot ja piimät
+8022252;Valio Hyvä suomalainen Arki® juustoviipale e500 g;6408430338313;1;1;kpl;4,26;8,52;kg;4,86;Ei;Ei;4,26;0,6;0;96;VALIO OY TUORE;Viipalejuustot
+8079979;Valio Hyvä suomalainen Arki® rae rasvaton 500 g laktoositon;6408430141487;1;1;kpl;2,89;5,78;kg;3,29;Ei;Ei;2,89;0,4;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8079278;Valio täysmaito 1 l ESL;6408430102105;1;1;kpl;1,38;1,38;l;1,57;Ei;Ei;1,38;0,19;0;96;VALIO OY TUORE;Maidot ja piimät
+8022880;Valio Hyvä suomalainen Arki® goudaviipale e800 g;6408430338320;1;1;pkt;8,97;11,21;kg;10,23;Ei;Ei;8,97;1,26;0;96;VALIO OY TUORE;Viipalejuustot
+8024;Valio rasvaton piimä 1 l;6408430001705;1;1;kpl;1,3;1,3;l;1,48;Ei;Ei;1,3;0,18;0;96;VALIO OY TUORE;Maidot ja piimät
+8074331;Oddlygood® kaurajuoma 1 l UHT gluteeniton;6408430102204;1;1;kpl;1,5;1,5;l;1,71;Ei;Ei;1,5;0,21;0;96;VALIO OY TUORE;Kasvipohjaiset maidonkaltaiset
+8078328;Valio Ruoka 15 % 1 l laktoositon;6408430141418;1;1;kpl;2,18;2,18;l;2,49;Ei;Ei;2,18;0,31;0;96;VALIO OY TUORE;Kermat
+8037109;Valio Salaneuvos® gouda e300 g viipale;6408430338795;1;1;kpl;4,64;15,47;kg;5,29;Ei;Ei;4,64;0,65;0;96;VALIO OY TUORE;Viipalejuustot
+8007742;Valio salaattijuusto kuutiot 2 kg laktoositon;6408430337675;1;1;kpl;23,18;11,59;kg;26,43;Ei;Ei;23,18;3,25;0;96;VALIO OY TUORE;Fetat ja salaattijuustot
+8029113;Valio PROfeel® proteiinirahka 175 g mansikka laktoositon;6408430042692;1;1;kpl;1,26;7,2;kg;1,44;Ei;Ei;1,26;0,18;0;96;VALIO OY TUORE;Rahkat
+9906293;Valiojogurtti® 1 kg banaani laktoositon;6408430021031;1;1;kpl;1,99;1,99;kg;2,27;Ei;Ei;1,99;0,28;0;96;VALIO OY TUORE;Jogurtit
+8042576;Valio vaahtoutuva vaniljakastike 9 % 1 l UHT laktoositon;6408430015016;1;1;kpl;5,95;5,95;l;6,78;Ei;Ei;5,95;0,83;0;96;VALIO OY TUORE;Jälkiruokakastikkeet
+8078297;Valio turkkilainen ruokajogurtti 6% 5 kg laktoositon;6408430141333;1;1;kpl;15,72;3,14;kg;17,92;Ei;Ei;15,72;2,2;0;96;VALIO OY TUORE;Jogurtit
+8078686;Valio tuorejuusto 3,5 kg maustamaton laktoositon;6408430342624;1;1;kpl;25,61;7,32;kg;29,2;Ei;Ei;25,61;3,59;0;96;VALIO OY TUORE;Tuorejuustot
+8043502;Valio Oivariini® 400 g laktoositon;6408430310753;1;1;kpl;3,66;9,15;kg;4,17;Ei;Ei;3,66;0,51;0;96;VALIO OY TUORE;Margariinirasiat ja -paketit
+8081987;Valio A+™ Luomu™ luonnonjogurtti 5 kg rasvaton laktoositon;6408430400096;1;1;kpl;14,7;2,94;kg;16,76;Ei;Ei;14,7;2,06;0;96;VALIO OY TUORE;Jogurtit
+8022855;Valio Eila® 3 % maitojuoma 1 l laktoositon;6408430000296;1;1;kpl;2,02;2,02;l;2,3;Ei;Ei;2,02;0,28;0;96;VALIO OY TUORE;Maidot ja piimät
+8067157;Valio jogurtti 150 g rasvaton metsämarja laktoositon (ammattikeittiöille);6408430407941;1;1;prk;0,45;3,0;kg;0,51;Ei;Ei;0,45;0,06;0;96;VALIO OY TUORE;Jogurtit
+9906578;Valio mustikkakeitto 1 kg sokeroimaton;6408430062102;1;1;kpl;3,02;3,02;kg;3,44;Ei;Ei;3,02;0,42;0;96;VALIO OY TUORE;Mehukeitot
+9906407;Valio Edam 17 % e300 g viipale;6408430036349;1;1;kpl;4,56;15,2;kg;5,2;Ei;Ei;4,56;0,64;0;96;VALIO OY TUORE;Viipalejuustot
+8042263;Valio Hyvä suomalainen Arki® kermajuustoviipale e400 g;6408430339327;1;1;kpl;4,26;10,65;kg;4,86;Ei;Ei;4,26;0,6;0;96;VALIO OY TUORE;Viipalejuustot
+9906200;Valio kermaviili 5 kg laktoositon;6408430004065;1;1;kpl;16,23;3,25;kg;18,5;Ei;Ei;16,23;2,27;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+9906583;Valio vadelmakeitto 1 kg;6408430062157;1;1;kpl;3,02;3,02;kg;3,44;Ei;Ei;3,02;0,42;0;96;VALIO OY TUORE;Mehukeitot
+8010265;Valio turkkilainen jogurtti 2 kg laktoositon;6408432095634;1;1;kpl;9,09;4,55;kg;10,36;Ei;Ei;9,09;1,27;0;96;VALIO OY TUORE;Jogurtit
+8072678;Valio jogurtti 5 kg marja laktoositon;6408430408634;1;1;kpl;14,22;2,84;kg;16,21;Ei;Ei;14,22;1,99;0;96;VALIO OY TUORE;Jogurtit
+9906275;Valiojogurtti® 1 kg vanilja laktoositon;6408430020539;1;1;kpl;1,99;1,99;kg;2,27;Ei;Ei;1,99;0,28;0;96;VALIO OY TUORE;Jogurtit
+9906584;Valio vadelmakeitto 1 kg sokeroimaton;6408430062171;1;1;kpl;3,02;3,02;kg;3,44;Ei;Ei;3,02;0,42;0;96;VALIO OY TUORE;Mehukeitot
+9906294;Valiojogurtti® 1 kg hedelmäpommi laktoositon;6408430021048;1;1;kpl;1,99;1,99;kg;2,27;Ei;Ei;1,99;0,28;0;96;VALIO OY TUORE;Jogurtit
+8067099;Valio jogurtti 150 g rasvaton persikka laktoositon (ammattikeittiöille);6408430407958;1;1;prk;0,45;3,0;kg;0,51;Ei;Ei;0,45;0,06;0;96;VALIO OY TUORE;Jogurtit
+9906489;Valio Viilis® 200 g mansikka laktoositon;6408430040032;1;1;kpl;0,76;3,8;kg;0,87;Ei;Ei;0,76;0,11;0;96;VALIO OY TUORE;Viilit
+9906349;Valio juustoraasteseos e2,5 kg;6408430031573;1;1;kpl;19,58;7,83;kg;22,32;Ei;Ei;19,58;2,74;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8072746;Valio Burgerviipale cheddar e1 kg;6408430342631;1;1;kpl;14,0;14,0;kg;15,96;Ei;Ei;14,0;1,96;0;96;VALIO OY TUORE;Viipalejuustot
+8230;Valio voi 500 g normaalisuolainen;6408430030002;1;1;kpl;4,5;9,0;kg;5,13;Ei;Ei;4,5;0,63;0;96;VALIO OY TUORE;Voirasiat ja -paketit
+8042236;Valio kevytkerma 1 l UHT laktoositon;6408430014989;1;1;kpl;3,81;3,81;l;4,34;Ei;Ei;3,81;0,53;0;96;VALIO OY TUORE;Kermat
+8067790;Valio Luonnonjogurtti+™ mango & persikka 1 kg ei lisättyä sokeria, laktoositon;6408430407880;1;1;kpl;2,66;2,66;kg;3,03;Ei;Ei;2,66;0,37;0;96;VALIO OY TUORE;Jogurtit
+9906213;Valio ananastäysmehu 1 l;6408430006014;1;1;kpl;3,08;3,08;l;3,51;Ei;Ei;3,08;0,43;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8058187;Valiojogurtti® 1 kg maustamaton laktoositon;6408430026432;1;1;kpl;1,99;1,99;kg;2,27;Ei;Ei;1,99;0,28;0;96;VALIO OY TUORE;Jogurtit
+8080816;Valio kreikkalainen jogurtti 150 g kirsikka laktoositon;6408430408931;1;1;kpl;1,08;7,2;kg;1,23;Ei;Ei;1,08;0,15;0;96;VALIO OY TUORE;Jogurtit
+8029507;Valio Keittiön kermaviili 200 g laktoositon;6408430040308;1;1;kpl;1,1;5,5;kg;1,25;Ei;Ei;1,1;0,15;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+9906424;Valio AURA® e170 g pala;6408430037001;1;1;kpl;2,74;16,12;kg;3,12;Ei;Kyllä;3,57;0,38;0;96;VALIO OY TUORE;Sini- ja punahomejuustot
+8007664;Valio Edam 17 % e1 kg viipale;6408430336746;1;1;kpl;10,08;10,08;kg;11,49;Ei;Ei;10,08;1,41;0;96;VALIO OY TUORE;Viipalejuustot
+8022233;Valiojogurtti® lohkeava luonnonjogurtti 150 g laktoositon;6408430022151;1;1;kpl;1,04;6,93;kg;1,19;Ei;Ei;1,04;0,15;0;96;VALIO OY TUORE;Jogurtit
+8081949;Valio kermaviili 2 kg laktoositon;6408430142040;1;1;kpl;8,1;4,05;kg;9,23;Ei;Ei;8,1;1,13;0;96;VALIO OY TUORE;Viilit
+8089306;Valio kerrosviili 1 % 200 g puutarhan marjat laktoositon;6408430400850;1;1;kpl;0,78;3,9;kg;0,89;Ei;Ei;0,78;0,11;0;96;VALIO OY TUORE;Viilit
+8043120;Suurtalous juustomuruseos e4 kg;6408430339648;1;1;pss;20,51;5,13;kg;23,38;Ei;Ei;20,51;2,87;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8014713;Valio Hyvä suomalainen Arki® jogurtti 1 kg mansikka-banaani;6408430021581;1;1;kpl;1,72;1,72;kg;1,96;Ei;Ei;1,72;0,24;0;96;VALIO OY TUORE;Jogurtit
+9906205;Valio kevytviili 200 g;6408430004324;1;1;kpl;0,54;2,7;kg;0,62;Ei;Ei;0,54;0,08;0;96;VALIO OY TUORE;Viilit
+9906514;Valio Keittiön maitorahka 500 g laktoositon;6408430042234;1;1;kpl;3,46;6,92;kg;3,94;Ei;Ei;3,46;0,48;0;96;VALIO OY TUORE;Rahkat
+8020846;Valio Viola® 1,5 kg maustamaton tuorejuusto laktoositon;6408430338146;1;1;prk;17,15;11,43;kg;19,55;Ei;Ei;17,15;2,4;0;96;VALIO OY TUORE;Tuorejuustot
+8071709;Valio Grandi® 2 dl vadelma;6408430670161;1;1;prk;0,54;2,7;l;0,62;Ei;Ei;0,54;0,08;0;96;VALIO OY TUORE;Mehut
+8021246;Valio Viola® kevyt 1,5 kg ruohosipuli tuorejuusto laktoositon;6408430338108;1;1;kpl;17,15;11,43;kg;19,55;Ei;Ei;17,15;2,4;0;96;VALIO OY TUORE;Tuorejuustot
+8043501;Valiojogurtti® 1 kg vadelma laktoositon;6408430024933;1;1;kpl;1,99;1,99;kg;2,27;Ei;Ei;1,99;0,28;0;96;VALIO OY TUORE;Jogurtit
+9906185;Valiojogurtti® 200 g mustikka laktoositon;6408430002283;1;1;kpl;0,56;2,8;kg;0,64;Ei;Ei;0,56;0,08;0;96;VALIO OY TUORE;Jogurtit
+9906582;Valio mansikkakeitto 1 kg sokeroimaton;6408430062140;1;1;kpl;3,02;3,02;kg;3,44;Ei;Ei;3,02;0,42;0;96;VALIO OY TUORE;Mehukeitot
+8091691;Valio pehmeä vadelmarahka 150 g laktoositon;6408430401116;1;1;kpl;0,84;5,6;kg;0,96;Ei;Ei;0,84;0,12;0;96;VALIO OY TUORE;Rahkat
+8091666;Valio pehmeä vaniljarahka 150 g laktoositon;6408430401109;1;1;kpl;0,84;5,6;kg;0,96;Ei;Ei;0,84;0,12;0;96;VALIO OY TUORE;Rahkat
+9906314;Valio A+™ luonnonjogurtti 1 kg rasvaton laktoositon;6408430024308;1;1;kpl;2,89;2,89;kg;3,29;Ei;Ei;2,89;0,4;0;96;VALIO OY TUORE;Jogurtit
+8017127;Valio Luomu™ mustikkakeitto 750 g;6408430062300;1;1;kpl;2,94;3,92;kg;3,35;Ei;Ei;2,94;0,41;0;96;VALIO OY TUORE;Mehukeitot
+9906350;Valio Fontal pizzajuusto e2,5 kg muru;6408430031580;1;1;kpl;19,58;7,83;kg;22,32;Ei;Ei;19,58;2,74;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8089296;Valio Luonnonjogurtti+™ puolukka & omena 1 kg ei lisättyä sokeria, laktoositon;6408430400805;1;1;kpl;2,61;2,61;kg;2,98;Ei;Ei;2,61;0,37;0;96;VALIO OY TUORE;Jogurtit
+8044382;Valio Eila® kevytmaitojuoma 1 l UHT laktoositon;6408430011681;1;1;kpl;2,03;2,03;l;2,31;Ei;Ei;2,03;0,28;0;96;VALIO OY TUORE;Maidot ja piimät
+8007666;Valio Polar® Alkuperäinen 15 % e1 kg viipale;6408430336739;1;1;kpl;13,21;13,21;kg;15,06;Ei;Ei;13,21;1,85;0;96;VALIO OY TUORE;Viipalejuustot
+8029114;Valio PROfeel® proteiinirahka 175 g vanilja laktoositon;6408430042777;1;1;kpl;1,26;7,2;kg;1,44;Ei;Ei;1,26;0,18;0;96;VALIO OY TUORE;Rahkat
+8083914;Valio pehmeä rahka & mangokeitto 150 g laktoositon;6408430400225;1;1;kpl;0,83;5,53;kg;0,95;Ei;Ei;0,83;0,12;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8090571;Valio Balans pehmeä rahka & mustikkakeitto 150 g laktoositon;6408430400997;1;1;kpl;0,83;5,53;kg;0,95;Ei;Ei;0,83;0,12;0;96;VALIO OY TUORE;Rahkat
+9906292;Valiojogurtti® 1 kg mansikka laktoositon;6408430021024;1;1;kpl;1,99;1,99;kg;2,27;Ei;Ei;1,99;0,28;0;96;VALIO OY TUORE;Jogurtit
+9907926;Valio Koskenlaskija® 1,5 kg voimakas sulatejuustotanko laktoositon;6408430035984;1;1;kpl;17,67;11,78;kg;20,14;Ei;Ei;17,67;2,47;0;96;VALIO OY TUORE;Sulatejuustot
+8089351;Oddlygood® viipaleet e140 g gouda flavour;6430081490751;1;1;kpl;2,13;15,21;kg;2,43;Ei;Ei;2,13;0,3;0;96;VALIO OY TUORE;Kasvipohjaiset juustonkaltaiset
+8089302;Oddlygood® kaurapohjainen gurtti 1 kg natural gluteeniton;6430081490867;1;1;kpl;3,0;3,0;kg;3,42;Ei;Ei;3,0;0,42;0;96;VALIO OY TUORE;Kasvipohjaiset jogurtin kaltaiset
+8058120;Valio Oivariini® 350 g vähärasvaisempi ValSa® HYLA®;6408430310883;1;1;ras;3,42;9,77;kg;3,9;Ei;Ei;3,42;0,48;0;96;VALIO OY TUORE;Margariinirasiat ja -paketit
+9906328;Valio Oivariini® 600 g normaalisuolainen HYLA®;6408430030309;1;1;kpl;4,93;8,22;kg;5,62;Ei;Ei;4,93;0,69;0;96;VALIO OY TUORE;Margariinirasiat ja -paketit
+8037112;Valio Luostari® e800 g viipale;6408430338801;1;1;kpl;10,64;13,3;kg;12,13;Ei;Ei;10,64;1,49;0;96;VALIO OY TUORE;Viipalejuustot
+8074056;Valio cheddar e2,5 kg juustoraaste;6408430342723;1;1;pss;27,63;11,05;kg;31,5;Ei;Ei;27,63;3,87;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8007959;Valio Kippari® e900 g sulatejuustoviipale laktoositon;6408430336760;1;1;kpl;13,21;14,68;kg;15,06;Ei;Ei;13,21;1,85;0;96;VALIO OY TUORE;Viipalejuustot
+8072722;Valio Hyvä suomalainen Arki® crème fraîche 12 % 180 g laktoositon;6408430141227;1;1;kpl;1,03;5,72;kg;1,17;Ei;Ei;1,03;0,14;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+9906212;Valio appelsiinitäysmehu 1 l perinteinen;6408430006007;1;1;kpl;3,4;3,4;l;3,88;Ei;Ei;3,4;0,48;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8035961;Valio A+™ lisäaineeton jogurtti 150 g mustikka-vadelma laktoositon;6408430023554;1;1;kpl;0,73;4,87;kg;0,83;Ei;Ei;0,73;0,1;0;96;VALIO OY TUORE;Jogurtit
+8071733;Valio Grandi® 2 dl appelsiini-cola;6408430670192;1;1;prk;0,54;2,7;l;0,62;Ei;Ei;0,54;0,08;0;96;VALIO OY TUORE;Mehut
+8089158;Valio PROfeel® proteiinipirtelö 2,5 dl vadelmakaakao laktoositon;6408430408184;1;1;kpl;1,83;7,32;l;2,09;Ei;Ei;1,83;0,26;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8049532;Valio kuohukerma 1 l laktoositon, luomu;6408430015542;1;1;kpl;6,24;6,24;l;7,11;Ei;Ei;6,24;0,87;0;96;VALIO OY TUORE;Kermat
+8037742;Valio Keittiön kevytkerma 2 dl UHT laktoositon;6408430014903;1;1;kpl;1,14;5,7;l;1,3;Ei;Ei;1,14;0,16;0;96;VALIO OY TUORE;Kermat
+9906526;Valio raejuusto 200 g rasvaton laktoositon;6408430043132;1;1;kpl;1,94;9,7;kg;2,21;Ei;Ei;1,94;0,27;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8037750;Valio Keittiön vispikerma 2 dl UHT laktoositon;6408430014767;1;1;kpl;1,85;9,25;l;2,11;Ei;Ei;1,85;0,26;0;96;VALIO OY TUORE;Kermat
+8042264;Valio Edam 17 % e800 g viipale;6408430339303;1;1;kpl;10,64;13,3;kg;12,13;Ei;Ei;10,64;1,49;0;96;VALIO OY TUORE;Viipalejuustot
+8087064;Valio Oivariini® 350 g pehmeät öljyt laktoositon;6408430311026;1;1;kpl;3,23;9,23;kg;3,68;Ei;Ei;3,23;0,45;0;96;VALIO OY TUORE;Margariinirasiat ja -paketit
+8067363;Valio pehmeä maitorahka 200 g laktoositon;6408430407965;1;1;prk;1,13;5,65;kg;1,29;Ei;Ei;1,13;0,16;0;96;VALIO OY TUORE;Rahkat
+9906490;Valio Viilis® 200 g omena-päärynä laktoositon;6408430040049;1;1;kpl;0,78;3,9;kg;0,89;Ei;Ei;0,78;0,11;0;96;VALIO OY TUORE;Viilit
+9906310;Valio A+™ luonnonjogurtti 1 kg laktoositon;6408430024209;1;1;kpl;2,89;2,89;kg;3,29;Ei;Ei;2,89;0,4;0;96;VALIO OY TUORE;Jogurtit
+8019699;Valio Oivariini® 2,5 kg laktoositon sanko;6408430030620;1;1;prk;28,73;11,49;kg;32,75;Ei;Ei;28,73;4,02;0;96;VALIO OY TUORE;Margariinirasiat ja -paketit
+8067119;Valio kerrosviili 1 % 200 g persikka-mango laktoositon;6408430407972;1;1;prk;0,78;3,9;kg;0,89;Ei;Ei;0,78;0,11;0;96;VALIO OY TUORE;Viilit
+8078621;Valio Aamupala® e400 g raikas 12 % sulatejuustoviipale laktoositon;6408430336463;1;1;kpl;5,3;13,25;kg;6,04;Ei;Ei;5,3;0,74;0;96;VALIO OY TUORE;Viipalejuustot
+8093004;Oddlygood® soijajuoma 1 l no sugars UHT;6430081491314;1;1;kpl;1,69;1,69;l;1,93;Ei;Ei;1,69;0,24;0;96;VALIO OY TUORE;Kasvipohjaiset maidonkaltaiset
+8045;Valio voi 500 g suolaamaton;6408430030026;1;1;kpl;3,88;7,76;kg;4,42;Ei;Ei;3,88;0,54;0;96;VALIO OY TUORE;Voirasiat ja -paketit
+8007662;Valio Oltermanni® e900 g viipale;6408430336777;1;1;kpl;12,95;14,39;kg;14,76;Ei;Ei;12,95;1,81;0;96;VALIO OY TUORE;Viipalejuustot
+8054803;Valio mozzarella-fontal e2,5 kg juustomuru;6408430340675;1;1;kpl;21,19;8,48;kg;24,16;Ei;Ei;21,19;2,97;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8039182;Valiojogurtti® 200 g mango laktoositon;6408430023820;1;1;kpl;0,56;2,8;kg;0,64;Ei;Ei;0,56;0,08;0;96;VALIO OY TUORE;Jogurtit
+9906329;Valio Oivariini® 400 g normaalisuolainen HYLA®;6408430030316;1;1;kpl;3,66;9,15;kg;4,17;Ei;Ei;3,66;0,51;0;96;VALIO OY TUORE;Margariinirasiat ja -paketit
+8021249;Valio Viola® 3,5 kg maustamaton tuorejuusto laktoositon;6408430338139;1;1;kpl;35,25;10,07;kg;40,19;Ei;Ei;35,25;4,94;0;96;VALIO OY TUORE;Tuorejuustot
+8037743;Valio Keittiön ruokakerma 15 % 2 dl UHT laktoositon;6408430014729;1;1;kpl;1,04;5,2;l;1,19;Ei;Ei;1,04;0,15;0;96;VALIO OY TUORE;Kermat
+8007960;Valio Oltermanni® 17 % e900 g viipale;6408430336784;1;1;kpl;12,95;14,39;kg;14,76;Ei;Ei;12,95;1,81;0;96;VALIO OY TUORE;Viipalejuustot
+8089310;Oddlygood® Cooking Oat 1 l original gluteeniton;6430081490799;1;1;kpl;3,0;3,0;l;3,42;Ei;Ei;3,0;0,42;0;96;VALIO OY TUORE;Kasvipohjaiset kermankaltaiset
+8025;Valio AB® piimä 1 l (Asidofilus-Bifidus);6408430001811;1;1;kpl;1,73;1,73;l;1,97;Ei;Ei;1,73;0,24;0;96;VALIO OY TUORE;Maidot ja piimät
+9906586;Valio karviais-boysenmarjakeitto +kuitu 1 kg sokeroimaton;6408430062195;1;1;kpl;3,02;3,02;kg;3,44;Ei;Ei;3,02;0,42;0;96;VALIO OY TUORE;Mehukeitot
+8014712;Valio Hyvä suomalainen Arki® jogurtti 1 kg marjamix;6408430021376;1;1;kpl;1,72;1,72;l;1,96;Ei;Ei;1,72;0,24;0;96;VALIO OY TUORE;Jogurtit
+8020952;Valio voi 10 g normaalisuolainen;6408430315055;1;1;ltk;27,55;13,12;kg;31,41;Ei;Ei;27,55;3,86;0;96;VALIO OY TUORE;Annosvoit
+9906220;Valio 3 hedelmän mehu 1 l (rypäle, appelsiini, passiohedelmä);6408430006137;1;1;kpl;3,03;3,03;l;3,45;Ei;Ei;3,03;0,42;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8088176;Oddlygood® Easy Whipping 1 l UHT;6430081490492;1;1;kpl;3,9;3,9;l;4,45;Ei;Ei;3,9;0,55;0;96;VALIO OY TUORE;Kasvipohjaiset kermankaltaiset
+9906580;Valio mustikkakeitto 250 g siemenetön;6408430062126;1;1;kpl;1,17;4,68;kg;1,33;Ei;Ei;1,17;0,16;0;96;VALIO OY TUORE;Mehukeitot
+8020951;Valio voi 6 g vähemmän suolaa;6408430315130;1;1;ltk;33,6;20,0;kg;38,3;Ei;Ei;33,6;4,7;0;96;VALIO OY TUORE;Annosvoit
+8037830;Valio Koskenlaskija® e250 g voimakas sulatejuusto laktoositon;6408430039326;1;1;kpl;3,6;14,4;kg;4,1;Ei;Ei;3,6;0,5;0;96;VALIO OY TUORE;Sulatejuustot
+8061547;Valio Hyvä suomalainen Arki® jogurtti 1 kg vanilja;6408430407293;1;1;kpl;1,72;1,72;kg;1,96;Ei;Ei;1,72;0,24;0;96;VALIO OY TUORE;Jogurtit
+8078260;Oddlygood® Dream Fraiche 400 g;6408430141463;1;1;kpl;14,4;36,0;kg;16,42;Ei;Ei;14,4;2,02;0;96;VALIO OY TUORE;Kasvipohjaiset ruoanvalmistustuotteet
+8050719;Valio Oivariini® 6 g vähärasvaisempi ValSa® HYLA®;6408431303563;1;280;ltk;25,2;15,0;kg;28,73;Ei;Ei;25,2;3,53;0;96;VALIO OY TUORE;Annosmargariinit
+8078701;Valio Tuuti® 1 maitopohjainen äidinmaidonkorvike 200 ml UHT;6408430492268;1;1;kpl;0,76;3,8;l;0,87;Ei;Ei;0,76;0,11;0;96;VALIO OY TUORE;Lasten ruoat
+8037829;Valio Koskenlaskija® e250 g perinteinen sulatejuusto laktoositon;6408430037711;1;1;kpl;3,6;14,4;kg;4,1;Ei;Ei;3,6;0,5;0;96;VALIO OY TUORE;Sulatejuustot
+8054832;Valio mozzarella e2,5 kg juustomuru;6408430340668;1;1;kpl;27,63;11,05;kg;31,5;Ei;Ei;27,63;3,87;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+9906347;Valio Emmental punaleima e2,5 kg raaste;6408430031443;1;1;kpl;27,63;11,05;kg;31,5;Ei;Ei;27,63;3,87;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8040022;VALIO EILA LAKTOOSITON VOI 5KG;2050000070938;1;1;kpl;45,75;9,15;kg;52,16;Ei;Ei;45,75;6,41;0;96;VALIO OY TUORE;Voirasiat ja -paketit
+8043480;Valio kevytmaito 0,5 l laktoositon UHT;6408430011643;1;1;kpl;1,04;2,08;l;1,19;Ei;Ei;1,04;0,15;0;96;VALIO OY TUORE;Maidot ja piimät
+8089393;Oddlygood® Dessert 130 g dreamy lemon gluteeniton;6430081490850;1;1;kpl;1,28;9,85;kg;1,46;Ei;Ei;1,28;0,18;0;96;VALIO OY TUORE;Kasvipohjaiset jogurtin kaltaiset
+8021811;Valio Aamupala® e800 g maukas sulatejuustoviipale laktoositon;6408430338245;1;1;pkt;9,1;11,38;kg;10,37;Ei;Ei;9,1;1,27;0;96;VALIO OY TUORE;Viipalejuustot
+8087098;Valio Viilis® 200 g viidakko laktoositon;6408430400478;1;1;kpl;0,78;3,9;kg;0,89;Ei;Ei;0,78;0,11;0;96;VALIO OY TUORE;Viilit
+8083167;Valio Edam n. 2.8 kg;2384322500000;2,8;1;kg;6,76;6,76;kg;7,71;Ei;Ei;6,76;0,95;0;96;VALIO OY TUORE;Palajuustot
+8035962;Valio A+™ lisäaineeton jogurtti 150 g mansikka laktoositon;6408430023578;1;1;kpl;0,73;4,87;kg;0,83;Ei;Ei;0,73;0,1;0;96;VALIO OY TUORE;Jogurtit
+8071732;Valio Grandi® 2 dl päärynä;6408430221080;1;18;ltk;9,79;2,72;l;11,16;Ei;Ei;9,79;1,37;0;96;VALIO OY TUORE;Mehut
+9907912;Valio luumu-rusinakeitto 1 kg;6408430062249;1;1;kpl;3,01;3,01;kg;3,43;Ei;Ei;3,01;0,42;0;96;VALIO OY TUORE;Mehukeitot
+8021517;Valio Hyvä suomalainen Arki® juusto e1,25 kg;6408430337590;1;1;kpl;9,33;7,46;kg;10,64;Ei;Ei;9,33;1,31;0;96;VALIO OY TUORE;Palajuustot
+8510;VALIO AURA N3,2KG KOKONAINEN;2300851000000;3,2;1;kg;19,31;19,31;kg;22,01;Ei;Ei;19,31;2,7;0;96;VALIO OY TUORE;Sini- ja punahomejuustot
+8014714;Valio Hyvä suomalainen Arki® jogurtti 1 kg persikka-passion;6408430021598;1;1;kpl;1,72;1,72;kg;1,96;Ei;Ei;1,72;0,24;0;96;VALIO OY TUORE;Jogurtit
+8045690;Valio Hedelmätarha® luomuappelsiinitäysmehu 1 l;6408430690183;1;1;kpl;3,68;3,68;l;4,2;Ei;Ei;3,68;0,52;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8083702;Valio Onni® päärynä-kaurapuuro 215 g UHT (alk 5 kk);6408430492329;1;1;kpl;1,59;7,4;kg;1,81;Ei;Ei;1,59;0,22;0;96;VALIO OY TUORE;Lasten ruoat
+8044397;Valio Luomu™ luonnonjogurtti 1 kg laktoositon;6408430026333;1;1;kpl;3,23;3,23;kg;3,68;Ei;Ei;3,23;0,45;0;96;VALIO OY TUORE;Jogurtit
+8004760;Valio kevyempi pizzajuusto 17 % e400 g raaste;6408430336708;1;1;kpl;5,32;13,3;kg;6,06;Ei;Ei;5,32;0,74;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8042232;Valio Gefilus® Smoothie jogurttijuoma 2,5 dl mango-banaani laktoositon;6408430028283;1;1;kpl;1,74;6,96;l;1,98;Ei;Ei;1,74;0,24;0;96;VALIO OY TUORE;Jogurtit
+8067166;Valio kerrosviili 1 % 200 g ruusunmarja laktoositon;6408430407989;1;1;prk;0,76;3,8;kg;0,87;Ei;Ei;0,76;0,11;0;96;VALIO OY TUORE;Viilit
+8072693;Valio Hyvä suomalainen Arki® jogurtti 1 kg maustamaton;6408430408641;1;1;kpl;1,72;1,72;kg;1,96;Ei;Ei;1,72;0,24;0;96;VALIO OY TUORE;Jogurtit
+8089213;Valio Mustaleima™ e325 g;6408430347919;1;1;kpl;6,41;19,72;kg;7,31;Ei;Ei;6,41;0,9;0;96;VALIO OY TUORE;Palajuustot
+8071741;Valio Grandi® 2 dl mansikka;6408430221059;1;18;ltk;9,79;2,72;l;11,16;Ei;Ei;9,79;1,37;0;96;VALIO OY TUORE;Mehut
+8053024;Valio Oivariini® 350 g pehmeästi levittyvä ValSa® HYLA®;6408430310869;1;1;ras;3,66;10,46;kg;4,17;Ei;Ei;3,66;0,51;0;96;VALIO OY TUORE;Margariinirasiat ja -paketit
+9906608;Valio Gefilus® mehu 1 l ananas-porkkana+kalsium;6408430064892;1;1;kpl;3,06;3,06;l;3,49;Ei;Ei;3,06;0,43;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8071676;Valio Grandi® 2 dl appelsiini;6408430221073;1;18;ltk;9,79;2,72;l;11,16;Ei;Ei;9,79;1,37;0;96;VALIO OY TUORE;Mehut
+8078751;Valio Onni® viljaisa puolukkapuuro 215 g UHT (alk 5 kk);6408430049301;1;1;prk;1,59;7,4;kg;1,81;Ei;Ei;1,59;0,22;0;96;VALIO OY TUORE;Lasten ruoat
+8021813;Valio Aamupala® e800 g raikas 12 % sulatejuustoviipale laktoositon;6408430338252;1;1;pkt;9,75;12,19;kg;11,12;Ei;Ei;9,75;1,37;0;96;VALIO OY TUORE;Viipalejuustot
+8019908;Valio Plus™ rasvaton maito 1 l;6408430000289;1;1;kpl;1,65;1,65;l;1,88;Ei;Ei;1,65;0,23;0;96;VALIO OY TUORE;Maidot ja piimät
+8078500;Valio Tuuti® 2 maitopohjainen vieroitusvalmiste 200 ml UHT;6408430492275;1;1;kpl;0,76;3,8;l;0,87;Ei;Ei;0,76;0,11;0;96;VALIO OY TUORE;Lasten ruoat
+9906408;Valio Edam e300 g viipale;6408430036356;1;1;kpl;4,56;15,2;kg;5,2;Ei;Ei;4,56;0,64;0;96;VALIO OY TUORE;Viipalejuustot
+8061827;Valio Luomu™ smoothie 2,5 dl hedelmä;6408430217854;1;15;ltk;27,23;7,26;l;31,04;Ei;Ei;27,23;3,81;0;96;VALIO OY TUORE;Smoothiet
+8002112;Valio Eila® voi 200 g laktoositon;6408430030101;1;1;kpl;2,48;12,4;kg;2,83;Ei;Ei;2,48;0,35;0;96;VALIO OY TUORE;Voirasiat ja -paketit
+8078667;Valio Onni® neljän viljan puuro 215 g UHT (alk 5 kk);6408430049318;1;1;prk;1,59;7,4;kg;1,81;Ei;Ei;1,59;0,22;0;96;VALIO OY TUORE;Lasten ruoat
+8091672;Valio PROfeel® proteiinirahka 400 g mansikka laktoositon;6408430401147;1;1;kpl;1,92;4,8;kg;2,19;Ei;Ei;1,92;0,27;0;96;VALIO OY TUORE;Rahkat
+8051119;Valio rasvaton maitojauhe instant 400 g;6408430840625;1;1;ras;5,42;13,55;kg;6,18;Ei;Ei;5,42;0,76;0;96;VALIO OY TUORE;Maito- ja kermajauheet
+9906197;Valio Bulgarian jogurtti 200 g;6408430002801;1;1;kpl;0,87;4,35;kg;0,99;Ei;Ei;0,87;0,12;0;96;VALIO OY TUORE;Jogurtit
+8076877;Valio kermaviilidippi American 200 g HYLA®;6408430141265;1;1;kpl;1,07;5,35;kg;1,22;Ei;Ei;1,07;0,15;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+8078723;Valio Onni® peruna-porkkanavelli 210 g UHT (alk 4 kk);6408430049288;1;1;prk;1,22;5,81;kg;1,39;Ei;Ei;1,22;0,17;0;96;VALIO OY TUORE;Lasten ruoat
+8085226;Valio Muna & Voi levite 500 g laktoositon;6408431305376;1;2;ltk;16,24;16,24;kg;18,51;Ei;Ei;16,24;2,27;0;96;VALIO OY TUORE;Kananmunavalmisteet
+8094036;Valio Play® maitokaakaojuoma 2,5 dl laktoositon;6408431477554;1;10;ltk;11,26;4,5;l;12,84;Ei;Ei;11,26;1,58;0;96;VALIO OY TUORE;Kaakao
+8048504;Valio PROfeel® sokeroimaton proteiinijuoma suklaa 250 ml UHT laktoositon;6408430214495;1;15;ltk;23,96;6,39;l;27,31;Ei;Ei;23,96;3,35;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8078321;Oddlygood® Easy Cooking 1 l UHT;6408430222674;1;10;ltk;30,0;3,0;l;34,2;Ei;Ei;30,0;4,2;0;96;VALIO OY TUORE;Kasvipohjaiset kermankaltaiset
+8053368;Valio maitorahka 10 kg laktoositon;6408430046928;1;1;kpl;40,22;4,02;kg;45,85;Ei;Ei;40,22;5,63;0;96;VALIO OY TUORE;Rahkat
+8087957;Valio Hyvä suomalainen Arki® pehmeä raejuusto 200 g laktoositon;6408431470692;1;12;ltk;14,78;6,16;kg;16,85;Ei;Ei;14,78;2,07;0;96;VALIO OY TUORE;Muut juustot
+8040007;Valio PROfeel® proteiinijuoma minttukaakao 250 ml UHT laktoositon;6408430100774;1;15;ltk;23,96;6,39;l;27,31;Ei;Ei;23,96;3,35;0;96;VALIO OY TUORE;Kaakao
+9906509;Valio Keittiön crème fraîche 150 g laktoositon, luomu;6408430041572;1;10;ltk;14,75;9,83;kg;16,82;Ei;Ei;14,75;2,07;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+8094037;Valio Latte original maitokahvijuoma 2,5 dl laktoositon;6408431477479;1;10;ltk;11,26;4,5;l;12,84;Ei;Ei;11,26;1,58;0;96;VALIO OY TUORE;Valmiit kahvijuomat
+9906367;Valio Viola® kevyt e200 g kylmäsavulohi tuorejuusto laktoositon;6408430335176;1;8;ltk;20,64;12,9;kg;23,53;Ei;Ei;20,64;2,89;0;96;VALIO OY TUORE;Tuorejuustot
+8092954;Valio Keittiön kanelikreemi 200 g laktoositon;6408431476687;1;12;ltk;22,59;9,41;kg;25,75;Ei;Ei;22,59;3,16;0;96;VALIO OY TUORE;Soft Ice- ja jälkiruoka-ainekset
+8094354;Valio Alppi Kreivi® e300 g;6408431476083;1;6;ltk;41,74;23,19;kg;47,58;Ei;Ei;41,74;5,84;0;96;VALIO OY TUORE;Palajuustot
+8094237;VALIO PROFEEL PROTEINDRINK DISPLAY CARDB;6408430982424;1;1;kpl;10,0;;;12,55;Ei;Ei;10,0;2,55;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+9906510;Valio crème fraîche 2 kg laktoositon;6408430041343;1;1;kpl;16,53;8,27;kg;18,84;Ei;Ei;16,53;2,31;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+8088033;Valio Keittiön Mascarpone e200 g laktoositon;6408430347773;1;1;kpl;2,41;12,05;kg;2,75;Ei;Ei;2,41;0,34;0;96;VALIO OY TUORE;Tuorejuustot
+8037738;Valio Eila® kevytmaitojuoma 2,5 dl UHT laktoositon;6408430100750;1;15;ltk;12,6;3,36;l;14,36;Ei;Ei;12,6;1,76;0;96;VALIO OY TUORE;Maidot ja piimät
+8089328;Valio pehmeä maitorahka 5 kg laktoositon;6408430400904;1;1;kpl;21,6;4,32;kg;24,62;Ei;Ei;21,6;3,02;0;96;VALIO OY TUORE;Rahkat
+8043434;Valio Koskenlaskija® 2,5 kg maustamaton sanko laktoositon;6408430339457;1;1;kpl;28,31;11,32;kg;32,27;Ei;Ei;28,31;3,96;0;96;VALIO OY TUORE;Sulatejuustot
+8019910;Valio Eila® kevytmaitojuoma 10 l novobox laktoositon;6408430100330;1;2;ltk;37,5;1,88;l;42,75;Ei;Ei;37,5;5,25;0;96;VALIO OY TUORE;Maidot ja piimät
+9513136;Valio Eila® rasvaton maitojuoma 1 l laktoositon;6408430100224;1;5;ltk;8,96;1,79;l;10,21;Ei;Ei;8,96;1,25;0;96;VALIO OY TUORE;Maidot ja piimät
+8052;Valio Eila® kevytmaitojuoma 1 l laktoositon;6408430100248;1;5;ltk;9,75;1,95;l;11,12;Ei;Ei;9,75;1,37;0;96;VALIO OY TUORE;Maidot ja piimät
+8017095;Valio A+™ luonnonjogurtti ja marjamysli 200 g laktoositon;6408430208852;1;12;ltk;17,21;7,17;kg;19,62;Ei;Ei;17,21;2,41;0;96;VALIO OY TUORE;Jogurtit
+8089269;Oddlygood® kaurapohjainen gurtti 1 kg vadelma gluteeniton;16430081490888;1;6;ltk;18,0;3,0;kg;20,52;Ei;Ei;18,0;2,52;0;96;VALIO OY TUORE;Kasvipohjaiset jogurtin kaltaiset
+8065605;Valio PROfeel® proteiinivanukas 180 g suklaa laktoositon;6408430219124;1;12;ltk;17,19;7,96;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8042233;Valio Gefilus® Smoothie jogurttijuoma 2,5 dl mansikka-banaani laktoositon;6408430213498;1;7;ltk;12,21;6,98;l;13,92;Ei;Ei;12,21;1,71;0;96;VALIO OY TUORE;Jogurtit
+8088144;Oddlygood® Barista kaurajuoma 1 l caramel UHT gluteeniton;16430081490444;1;10;ltk;27,17;2,72;l;30,97;Ei;Ei;27,17;3,8;0;96;VALIO OY TUORE;Kasvipohjaiset maidonkaltaiset
+8028181;Valiojogurtti® lohkeava jogurtti 150 g mustikka laktoositon;6408430210428;1;12;ltk;12,45;6,92;kg;14,19;Ei;Ei;12,45;1,74;0;96;VALIO OY TUORE;Jogurtit
+194688;Valio vapaan lehmän rasvaton maito 10 l novobox;6408430001071;1;1;lt;10,3;1,03;l;11,74;Ei;Ei;10,3;1,44;0;96;VALIO OY TUORE;Maidot ja piimät
+8037091;Valio Plus™ kevytmaito 1 l;6408430100576;1;5;ltk;8,2;1,64;l;9,35;Ei;Ei;8,2;1,15;0;96;VALIO OY TUORE;Maidot ja piimät
+8022234;Valiojogurtti® lohkeava jogurtti 150 g raparperi laktoositon;6408430206063;1;12;ltk;12,45;6,92;kg;14,19;Ei;Ei;12,45;1,74;0;96;VALIO OY TUORE;Jogurtit
+8083880;Valio Pehmo pehmytjäätelöseos 1 l vanilja UHT laktoositon;6408431467005;1;10;ltk;47,25;4,73;l;53,87;Ei;Ei;47,25;6,62;0;96;VALIO OY TUORE;Soft Ice- ja jälkiruoka-ainekset
+8078333;Valio Ruoka 15 % 10 l laktoositon novobox;6408430223053;1;2;ltk;43,68;2,18;l;49,8;Ei;Ei;43,68;6,12;0;96;VALIO OY TUORE;Kermat
+8089192;Valio PROfeel® proteiinipirtelö 2,5 dl mansikka laktoositon;6408431467463;1;14;ltk;25,64;7,33;l;29,23;Ei;Ei;25,64;3,59;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8066972;Valio Koskenlaskija® 2,5 kg cheddar sanko laktoositon;6408430341412;1;1;kpl;28,31;11,32;kg;32,27;Ei;Ei;28,31;3,96;0;96;VALIO OY TUORE;Roomalainen levypizza
+8087039;Oddlygood® proteiinigurtti 150 g mango-passion;6408431468286;1;6;ltk;6,03;6,7;kg;6,87;Ei;Ei;6,03;0,84;0;96;VALIO OY TUORE;Kasvipohjaiset jogurtin kaltaiset
+8061525;Valio Luomu™ D-vitaminoitu rasvaton maito 1 l;6408430101535;1;5;ltk;6,07;1,21;l;6,92;Ei;Ei;6,07;0,85;0;96;VALIO OY TUORE;Maidot ja piimät
+8089212;Valio PROfeel® proteiinipirtelö 2,5 dl kaakao laktoositon;6408430218059;1;14;ltk;25,64;7,33;l;29,23;Ei;Ei;25,64;3,59;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8089255;Oddlygood® kaurapohjainen gurtti 1 kg mango gluteeniton;16430081490895;1;6;ltk;18,0;3,0;kg;20,52;Ei;Ei;18,0;2,52;0;96;VALIO OY TUORE;Kasvipohjaiset jogurtin kaltaiset
+8071044;Valio kreikkalainen juotava jogurtti 2,5 dl mango-passion laktoositon;6408430214600;1;7;ltk;10,11;5,78;l;11,53;Ei;Ei;10,11;1,42;0;96;VALIO OY TUORE;Jogurtit
+8071616;Valio Hyvä suomalainen Arki® juustoviipale e800 g;6408431304980;1;4;ltk;35,89;11,22;kg;40,91;Ei;Ei;35,89;5,02;0;96;VALIO OY TUORE;Viipalejuustot
+8022;Valio vapaan lehmän kevytmaito 1 l;6408430011322;1;5;ltk;5,9;1,18;l;6,73;Ei;Ei;5,9;0,83;0;96;VALIO OY TUORE;Maidot ja piimät
+8071026;Valio kreikkalainen juotava jogurtti 2,5 dl vadelma-granaattiomena laktoositon;6408430214587;1;7;ltk;10,11;5,78;l;11,53;Ei;Ei;10,11;1,42;0;96;VALIO OY TUORE;Jogurtit
+8040021;Valio PROfeel® proteiinirahka 175 g vadelma laktoositon;6408430212958;1;12;ltk;15,12;7,2;kg;17,24;Ei;Ei;15,12;2,12;0;96;VALIO OY TUORE;Rahkat
+8078599;Valio vapaan lehmän kevytmaito 10 l novobox;6408430001064;1;1;kpl;11,81;1,18;l;13,46;Ei;Ei;11,81;1,65;0;96;VALIO OY TUORE;Maidot ja piimät
+8088037;Gold&Green® Nyhtökaura® 1,5 kg Maustamaton;6408431469887;1;2;ltk;44,46;14,82;kg;50,68;Ei;Ei;44,46;6,22;0;96;VALIO OY TUORE;Kasviproteiinit
+8089152;Gold&Green® Italian Bolognese Ateriakastike 2,5 kg;6408431472559;1;2;ltk;65,4;13,08;kg;74,56;Ei;Ei;65,4;9,16;0;96;VALIO OY TUORE;Valmiskastikkeet
+8058502;Valio Koskenlaskija® 2,5 kg juustokastike sanko laktoositon;6408430340736;1;1;kpl;28,31;11,32;kg;32,27;Ei;Ei;28,31;3,96;0;96;VALIO OY TUORE;Roomalainen levypizza
+8067844;Valio Luonnonjogurtti+™ päärynä & banaani 1 kg ei lisättyä sokeria, laktoositon;6408430219582;1;5;ltk;13,29;2,66;kg;15,15;Ei;Ei;13,29;1,86;0;96;VALIO OY TUORE;Jogurtit
+8042225;Valio rasvaton maito 1 l laktoositon UHT;6408430100866;1;10;ltk;17,7;1,77;l;20,18;Ei;Ei;17,7;2,48;0;96;VALIO OY TUORE;Maidot ja piimät
+8040026;Valio Hyvä suomalainen Arki® goudaviipale e400 g;6408431302818;1;8;ltk;34,04;10,64;kg;38,81;Ei;Ei;34,04;4,77;0;96;VALIO OY TUORE;Viipalejuustot
+8048494;Valio PROfeel® sokeroimaton proteiinijuoma mansikkainen 250 ml UHT laktoositon;6408430214501;1;15;ltk;23,96;6,39;l;27,31;Ei;Ei;23,96;3,35;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8083923;Valio kevytmaito 2 dl;6408431466848;1;5;ltk;2,85;2,85;l;3,25;Ei;Ei;2,85;0,4;0;96;VALIO OY TUORE;Maidot ja piimät
+9906517;Valio raejuusto 200 g laktoositon;6408430202072;1;12;ltk;27,59;11,5;kg;31,45;Ei;Ei;27,59;3,86;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8020;Valio vapaan lehmän rasvaton maito 1 l;6408430010233;1;5;ltk;5,15;1,03;l;5,87;Ei;Ei;5,15;0,72;0;96;VALIO OY TUORE;Maidot ja piimät
+8085245;Valio Hyvä suomalainen Arki® smetana 23 % 180 g laktoositon;6408431467630;1;12;ltk;12,46;5,77;kg;14,2;Ei;Ei;12,46;1,74;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+8044611;Valio A+™ luonnonjogurtti 150 g laktoositon;6408430214129;1;10;ltk;7,27;4,85;kg;8,29;Ei;Ei;7,27;1,02;0;96;VALIO OY TUORE;Jogurtit
+9906204;Valio viili 200 g;6408430004607;1;12;ltk;6,52;2,72;kg;7,43;Ei;Ei;6,52;0,91;0;96;VALIO OY TUORE;Viilit
+8092975;Valio PROfeel® proteiinipirtelö 2,5 dl vaniljafudge laktoositon;6408431476212;1;14;ltk;25,65;7,33;l;29,24;Ei;Ei;25,65;3,59;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8050853;Valio Luomu™ D-vitaminoitu rasvaton maito 10 l novobox;6408430000722;1;1;pkt;12,14;1,21;l;13,84;Ei;Ei;12,14;1,7;0;96;VALIO OY TUORE;Maidot ja piimät
+8039215;Valio Hyvä suomalainen Arki® kevytmaitojuoma 1 l;6408430100804;1;20;ltk;21,9;1,1;l;24,97;Ei;Ei;21,9;3,07;0;96;VALIO OY TUORE;Maidot ja piimät
+8062930;Valio PROfeel® proteiinirahka 175 g puolukka-vanilja laktoositon;6408430218844;1;12;ltk;15,12;7,2;kg;17,24;Ei;Ei;15,12;2,12;0;96;VALIO OY TUORE;Rahkat
+8090671;Valio Luonnonjogurtti+™ smoothie 0,75 l päivänsäde, ei lisättyä sokeria, laktoositon;6408431474218;1;5;ltk;13,29;3,54;l;15,15;Ei;Ei;13,29;1,86;0;96;VALIO OY TUORE;Smoothiet
+8089283;Oddlygood® Dessert 130 g dreamy berries gluteeniton;16430081490840;1;6;ltk;7,68;9,85;kg;8,76;Ei;Ei;7,68;1,08;0;96;VALIO OY TUORE;Jogurtit
+8068630;Valio Herkku mousse 100 g mansikka laktoositon;6408430220212;1;12;ltk;14,21;11,84;kg;16,2;Ei;Ei;14,21;1,99;0;96;VALIO OY TUORE;Rahkat
+8089140;Valio PROfeel® proteiinipirtelö 2,5 dl appelsiinikaakao laktoositon;6408430218073;1;14;ltk;25,62;7,32;l;29,21;Ei;Ei;25,62;3,59;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8016959;Valio Eila® Luomu™ kevytmaitojuoma 1 l laktoositon;6408430208890;1;5;ltk;12,62;2,52;l;14,39;Ei;Ei;12,62;1,77;0;96;VALIO OY TUORE;Maidot ja piimät
+8078652;Valio Hyvä suomalainen Arki® juustoraaste e170 g;6408431304690;1;10;ltk;15,6;9,18;kg;17,78;Ei;Ei;15,6;2,18;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8092895;Valiojogurtti® juotava 0,95 l mangolassi laktoositon;6408431476540;1;5;ltk;9,94;2,09;l;11,33;Ei;Ei;9,94;1,39;0;96;VALIO OY TUORE;Jogurtit
+8089106;Valio PROfeel® proteiinipirtelö 2,5 dl banaanikaakao laktoositon;6408430218875;1;14;ltk;25,64;7,33;l;29,23;Ei;Ei;25,64;3,59;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8007739;Valio Keittiön salaattijuusto kuutiot 180 g laktoositon;6408431300685;1;6;ltk;14,34;13,28;kg;16,35;Ei;Ei;14,34;2,01;0;96;VALIO OY TUORE;Fetat ja salaattijuustot
+8092992;Oddlygood® mantelijuoma 1 l no sugars UHT;16430081491304;1;6;ltk;15,58;2,6;l;17,76;Ei;Ei;15,58;2,18;0;96;VALIO OY TUORE;Kasvipohjaiset maidonkaltaiset
+8037727;Valio Luomu™ vanhanajan täysmaito 1 l;6408430100620;1;5;ltk;8,03;1,61;l;9,15;Ei;Ei;8,03;1,12;0;96;VALIO OY TUORE;Maidot ja piimät
+8065616;Valio PROfeel® proteiinivanukas 180 g kermakaramelli laktoositon;6408430219131;1;12;ltk;17,19;7,96;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8074309;Valiojogurtti® juotava 0,95 l mansikka laktoositon;6408430222155;1;5;ltk;9,94;2,09;l;11,33;Ei;Ei;9,94;1,39;0;96;VALIO OY TUORE;Jogurtit
+8021387;Valio Viola® kevyt e200 g aurinkokuivattu tomaatti tuorejuusto laktoositon;6408431301699;1;8;ltk;20,64;12,9;kg;23,53;Ei;Ei;20,64;2,89;0;96;VALIO OY TUORE;Tuorejuustot
+8086998;Oddlygood® proteiinigurtti 150 g kirsikka;6408431468309;1;6;ltk;6,03;6,7;kg;6,87;Ei;Ei;6,03;0,84;0;96;VALIO OY TUORE;Kasvipohjaiset jogurtin kaltaiset
+8085265;Valio lemon curd täyte 2,5 kg laktoositon;6408430873555;1;1;kpl;18,75;7,5;kg;21,38;Ei;Ei;18,75;2,63;0;96;VALIO OY TUORE;Tukustu-kampanjatuotteet
+8064593;Valio Hedelmätarha® luomumustikkamehu 1 l;6408430217229;1;5;ltk;16,73;3,35;l;19,07;Ei;Ei;16,73;2,34;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8091685;Valio kreikkalainen jogurtti 150 g päärynä-kinuski laktoositon kausimaku;6408431475772;1;12;ltk;12,92;7,18;kg;14,73;Ei;Ei;12,92;1,81;0;96;VALIO OY TUORE;Jogurtit
+8040179;Valio kevytmaito 5 dl;6408430100811;1;5;ltk;4,95;1,98;l;5,64;Ei;Ei;4,95;0,69;0;96;VALIO OY TUORE;Maidot ja piimät
+8061573;Valio PROfeel® proteiinirahka sokeroimaton 175 g mango-vanilja laktoositon;6408430218394;1;12;ltk;15,12;7,2;kg;17,24;Ei;Ei;15,12;2,12;0;96;VALIO OY TUORE;Rahkat
+8078534;Valio täysmaito 10 l novobox;6408430001088;1;1;kpl;13,84;1,38;l;15,78;Ei;Ei;13,84;1,94;0;96;VALIO OY TUORE;Maidot ja piimät
+8087096;Valio Luonnonjogurtti+™ smoothie 0,75 l tropiikin aamu ei lisättyä sokeria, laktoositon;6408431469115;1;5;ltk;13,29;3,54;l;15,15;Ei;Ei;13,29;1,86;0;96;VALIO OY TUORE;Smoothiet
+8068642;Valio PROfeel® proteiinivanukas 180 g minttusuklaa laktoositon;6408430219421;1;12;ltk;17,19;7,96;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8028685;Valio kinuskitäyte 10 kg laktoositon;6408430870769;1;1;kpl;105,0;10,5;kg;119,7;Ei;Ei;105,0;14,7;0;96;VALIO OY TUORE;Leipomotuotteet ja leivontasuklaat
+8045721;Valio Hedelmätarha® luomuomenatäysmehu 1 l;6408430213863;1;5;ltk;16,73;3,35;l;19,07;Ei;Ei;16,73;2,34;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8070649;Valio PROfeel® proteiinirahka 175 g kuningatar laktoositon;6408430219155;1;12;ltk;15,12;7,2;kg;17,24;Ei;Ei;15,12;2,12;0;96;VALIO OY TUORE;Rahkat
+8089286;Valio PROfeel® proteiinirahka 175 g persikka laktoositon;6408431471682;1;12;ltk;15,12;7,2;kg;17,24;Ei;Ei;15,12;2,12;0;96;VALIO OY TUORE;Rahkat
+8090636;Valio mangokeitto 1 kg;6408431474645;1;5;ltk;15,08;3,02;kg;17,19;Ei;Ei;15,08;2,11;0;96;VALIO OY TUORE;Mehukeitot
+8021371;Valio pehmeä maitorahka 250 g;6408430042487;1;12;ltk;10,98;3,66;kg;12,52;Ei;Ei;10,98;1,54;0;96;VALIO OY TUORE;Rahkat
+8022100;Valio vispikerma 38 % 10 l UHT laktoositon;6408430014651;1;1;ltk;59,09;5,91;l;67,36;Ei;Ei;59,09;8,27;0;96;VALIO OY TUORE;Kermat
+8044412;Valio Viola® 1,5 kg chili-paprika tuorejuusto laktoositon;6408430339730;1;1;kpl;18,38;12,25;kg;20,95;Ei;Ei;18,38;2,57;0;96;VALIO OY TUORE;Tuorejuustot
+8088032;Valio pehmeä rahka & vadelma-persikkakeitto 150 g laktoositon;6408431470210;1;12;ltk;9,9;5,5;kg;11,29;Ei;Ei;9,9;1,39;0;96;VALIO OY TUORE;Rahkat
+8074200;Valio Herkku suklaamousse 100 g laktoositon;6408430221790;1;12;ltk;14,21;11,84;kg;16,2;Ei;Ei;14,21;1,99;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+9906370;Valio Viola® e200 g maustamaton tuorejuusto laktoositon;6408430335206;1;8;ltk;20,64;12,9;kg;23,53;Ei;Ei;20,64;2,89;0;96;VALIO OY TUORE;Tuorejuustot
+9906454;Valio Olympia e400 g perinteinen sulatejuusto;6408430331109;1;16;ltk;70,99;11,09;kg;80,93;Ei;Ei;70,99;9,94;0;96;VALIO OY TUORE;Sulatejuustot
+8078664;Valio täyteläinen wanhan ajan viili 190 g HYLA®;6408430219520;1;12;ltk;6,09;2,67;kg;6,94;Ei;Ei;6,09;0,85;0;96;VALIO OY TUORE;Viilit
+8011502;Valio vadelma-persikkakeitto+kuitu 1 kg sokeroimaton;6408430207664;1;5;ltk;15,08;3,02;kg;17,19;Ei;Ei;15,08;2,11;0;96;VALIO OY TUORE;Mehukeitot
+8090700;Valio Hedelmätarha® puolukkamehu 1 l;6408431474751;1;5;ltk;16,28;3,26;l;18,56;Ei;Ei;16,28;2,28;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8053418;Valio Oltermanni® e300 g viipale;6408431303846;1;8;ltk;36,48;15,2;kg;41,59;Ei;Ei;36,48;5,11;0;96;VALIO OY TUORE;Viipalejuustot
+8078311;Oddlygood® Easy Whipping 2,5 dl UHT;6408430219551;1;15;ltk;16,88;4,5;l;19,24;Ei;Ei;16,88;2,36;0;96;VALIO OY TUORE;Kasvipohjaiset kermankaltaiset
+8090572;Valio Balans luonnonjogurtti ja vadelma-kaakaogranola 200 g laktoositon;6408431474164;1;12;ltk;17,21;7,17;kg;19,62;Ei;Ei;17,21;2,41;0;96;VALIO OY TUORE;Jogurtit
+8094071;Gold&Green® Härkis® härkäpapumurska 2 kg Original;6408431478407;1;2;ltk;65,8;16,45;kg;75,01;Ei;Ei;65,8;9,21;0;96;VALIO OY TUORE;Kasviproteiinit
+8043088;Valio mansikka-banaanikeitto +kuitu 1 kg sokeroimaton;6408430213467;1;5;ltk;15,08;3,02;kg;17,19;Ei;Ei;15,08;2,11;0;96;VALIO OY TUORE;Mehukeitot
+8061874;Valio Luomu™ smoothie 0,75 l hedelmä;6408430217878;1;5;ltk;20,18;5,38;l;23,01;Ei;Ei;20,18;2,83;0;96;VALIO OY TUORE;Smoothiet
+8088024;Gran Regale e1 kg juustoraaste laktoositon;6408431470487;1;2;ltk;30,89;15,45;kg;35,21;Ei;Ei;30,89;4,32;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8089128;Valio Hedelmätarha® appelsiinimehu 1 l hedelmälihaa;6408431472030;1;5;ltk;16,28;3,26;l;18,56;Ei;Ei;16,28;2,28;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8058184;Valio MiFU® e2,5 kg suikale Original laktoositon;6408430217175;1;2;ltk;59,88;11,98;kg;68,26;Ei;Ei;59,88;8,38;0;96;VALIO OY TUORE;Kasviproteiinit
+8088013;Valio Keittiön kreikkalainen jogurtti 400 g laktoositon;6408431470432;1;6;ltk;9,63;4,01;kg;10,98;Ei;Ei;9,63;1,35;0;96;VALIO OY TUORE;Jogurtit
+8028176;Valio Keittiön maustettu rahka 200 g kuningatar laktoositon;6408430210398;1;12;ltk;22,68;9,45;kg;25,86;Ei;Ei;22,68;3,18;0;96;VALIO OY TUORE;Rahkat
+8029966;Valio Koskenlaskija® e2,5 kg voimakas murennettu laktoositon;6408431302368;1;2;ltk;49,27;9,85;kg;56,17;Ei;Ei;49,27;6,9;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8078687;Valio mansikkahillo 6 kg;6408430878437;1;1;kpl;36,0;6,0;kg;41,04;Ei;Ei;36,0;5,04;0;96;VALIO OY TUORE;Hillot
+8043433;Valio Kolmen Juuston juustokuutioseos e1 kg laktoositon;6408431303082;1;4;ltk;48,96;12,24;kg;55,81;Ei;Ei;48,96;6,85;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8091704;Valio PROfeel® Greek Style proteiinijogurtti 160 g mansikka-vadelma laktoositon;6408431475437;1;12;ltk;12,08;6,29;kg;13,77;Ei;Ei;12,08;1,69;0;96;VALIO OY TUORE;Jogurtit
+8092945;Valio PROfeel® proteiinirahka sokeroimaton 175 g ananas laktoositon;6408431476298;1;12;ltk;15,17;7,22;kg;17,29;Ei;Ei;15,17;2,12;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8071697;Valio Kippari® e300 g sulatejuustoviipale laktoositon;6408431304973;1;8;ltk;37,15;15,48;kg;42,35;Ei;Ei;37,15;5,2;0;96;VALIO OY TUORE;Viipalejuustot
+8067120;Oddlygood® e150 g grated;6408431304775;1;10;ltk;21,87;14,58;kg;24,93;Ei;Ei;21,87;3,06;0;96;VALIO OY TUORE;Kasvipohjaiset juustonkaltaiset
+8068580;Valio Herkku mousse 100 g mango-passion laktoositon;6408430220229;1;12;ltk;14,21;11,84;kg;16,2;Ei;Ei;14,21;1,99;0;96;VALIO OY TUORE;Rahkat
+8072761;Valio Herkku mousse 100 g luumu laktoositon kausimaku;6408430221783;1;12;ltk;14,21;11,84;kg;16,2;Ei;Ei;14,21;1,99;0;96;VALIO OY TUORE;Rahkat
+8078633;Valio kahvikerma 2 dl laktoositon;6408430204991;1;5;ltk;4,72;4,72;l;5,38;Ei;Ei;4,72;0,66;0;96;VALIO OY TUORE;Kermat
+8090577;Valio PROfeel® kerrosrahka 175 g vanilja & passiohedelmä laktoositon;6408431474034;1;12;ltk;15,12;7,2;kg;17,24;Ei;Ei;15,12;2,12;0;96;VALIO OY TUORE;Kermat
+8091684;Valio PROfeel® Greek Style proteiinijogurtti 160 g persikka-papaija laktoositon;6408431475406;1;12;ltk;12,08;6,29;kg;13,77;Ei;Ei;12,08;1,69;0;96;VALIO OY TUORE;Jogurtit
+9906138;Valio Luomu™ kevytmaito 1 l;6408430010325;1;5;ltk;6,71;1,34;l;7,65;Ei;Ei;6,71;0,94;0;96;VALIO OY TUORE;Maidot ja piimät
+8078585;Valio Aamupala® e400 g kevyenraikas 5 % sulatejuustoviipale laktoositon;6408431301781;1;12;ltk;63,54;13,24;kg;72,44;Ei;Ei;63,54;8,9;0;96;VALIO OY TUORE;Viipalejuustot
+8090615;Gold&Green® Mureat ja mehevät suikaleet 1,5 kg, Original;6408431475116;1;2;ltk;46,5;15,5;kg;53,01;Ei;Ei;46,5;6,51;0;96;VALIO OY TUORE;Kasviproteiinit
+8036990;Valio mansikkatäyte 10 kg;6408430870462;1;1;kpl;72,24;7,22;kg;82,35;Ei;Ei;72,24;10,11;0;96;VALIO OY TUORE;Hillot
+8048346;Valio Emmental-Edam juustoraasteseos e2,5 kg;6408431303594;1;4;ltk;84,72;8,47;kg;96,58;Ei;Ei;84,72;11,86;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8064756;Valio MiFU® e2,5 kg jauhis Original laktoositon;6408430219469;1;2;ltk;56,22;11,24;kg;64,09;Ei;Ei;56,22;7,87;0;96;VALIO OY TUORE;Kasviproteiinit
+8072748;Valio Luomu™ jogurtti 1 kg metsämustikka laktoositon;6408430221776;1;5;ltk;16,13;3,23;kg;18,39;Ei;Ei;16,13;2,26;0;96;VALIO OY TUORE;Jogurtit
+8080181;Valio Hedelmätarha® mansikka-raparperimehu 1 l;6408430223213;1;5;ltk;16,28;3,26;l;18,56;Ei;Ei;16,28;2,28;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8092948;Valio Gefilus® Kefir 2,5 dl vadelma laktoositon;6408431477202;1;10;ltk;11,55;4,62;l;13,17;Ei;Ei;11,55;1,62;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+9906609;Valio glögi tumma 1 l kausituote;6408430068418;1;5;ltk;7,99;1,6;l;9,11;Ei;Kyllä;10,43;1,12;0;96;VALIO OY TUORE;Mehut
+8039195;Valio Viola® e200 g vanilja tuorejuusto laktoositon;6408431302726;1;8;ltk;20,64;12,9;kg;23,53;Ei;Ei;20,64;2,89;0;96;VALIO OY TUORE;Tuorejuustot
+8085271;Valio PROfeel® kerrosrahka 175 g vanilja & mustikkapiirakka laktoositon;6408431467579;1;12;ltk;15,12;7,2;kg;17,24;Ei;Ei;15,12;2,12;0;96;VALIO OY TUORE;Rahkat
+8091692;Oddlygood® Dessert 130 g dreamy vanilla gluteeniton;16430081491182;1;6;ltk;7,68;9,85;kg;8,76;Ei;Ei;7,68;1,08;0;96;VALIO OY TUORE;Soft Ice- ja jälkiruoka-ainekset
+8078323;Valio PROfeel® proteiinivanukas 185 g banoffee makeutusaineeton laktoositon;6408430222759;1;12;ltk;17,19;7,74;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+9906305;Valiojogurtti® 1 kg rasvaton mansikka-vanilja laktoositon;6408430022687;1;5;ltk;9,94;1,99;l;11,33;Ei;Ei;9,94;1,39;0;96;VALIO OY TUORE;Jogurtit
+9906505;Valio Keittiön smetana 120 g laktoositon;6408430041565;1;10;ltk;12,4;10,33;kg;14,14;Ei;Ei;12,4;1,74;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+8070741;Valio PROfeel® proteiinivanukas 180 g suklaa-toffee laktoositon;6408430220656;1;12;ltk;17,19;7,96;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8073078;Valio vadelmatäyte 10 kg;6408430871032;1;1;kpl;78,0;7,8;kg;88,92;Ei;Ei;78,0;10,92;0;96;VALIO OY TUORE;Marmeladit
+8078681;Valio kuohukerma 2 dl laktoositon;6408430015092;1;5;ltk;7,95;7,95;l;9,06;Ei;Ei;7,95;1,11;0;96;VALIO OY TUORE;Kermat
+9906141;Valio Luomu™ rasvaton maito 1 l;6408430010592;1;5;ltk;6,07;1,21;l;6,92;Ei;Ei;6,07;0,85;0;96;VALIO OY TUORE;Maidot ja piimät
+8078697;Valio Keittiön kermainen currykastike 3 dl laktoositon;6408430220465;1;10;ltk;23,94;7,98;l;27,29;Ei;Ei;23,94;3,35;0;96;VALIO OY TUORE;Valmiskastikkeet
+8085250;Valio Hyvä suomalainen Arki® pehmeä rahka 200 g laktoositon;6408431468248;1;12;ltk;8,38;3,49;kg;9,55;Ei;Ei;8,38;1,17;0;96;VALIO OY TUORE;Rahkat
+8022877;Valio Luomu™ voi 200 g;6408431302559;1;20;ltk;49,69;12,42;kg;56,65;Ei;Ei;49,69;6,96;0;96;VALIO OY TUORE;Voirasiat ja -paketit
+8051157;Valio laktoositon kevyt maitojauhe instant 400 g;6408430214662;1;10;ltk;67,1;16,78;kg;76,49;Ei;Ei;67,1;9,39;0;96;VALIO OY TUORE;Maito- ja kermajauheet
+8081998;Valio PROfeel® proteiinivanukas 185 g suklaa-mansikka makeutusaineeton laktoositon;6408430223633;1;12;ltk;17,19;7,74;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8087781;Valio rasvaton piimä 5 kg laktoositon;6408430102662;1;1;kpl;8,57;1,71;kg;9,77;Ei;Ei;8,57;1,2;0;96;VALIO OY TUORE;Maidot ja piimät
+8040019;Valio kreikkalainen jogurtti 150 g vadelma-granaattiomena laktoositon;6408430213238;1;12;ltk;12,92;7,18;kg;14,73;Ei;Ei;12,92;1,81;0;96;VALIO OY TUORE;Jogurtit
+8046440;Valio A+™ kreikkalainen luonnonjogurtti 1 kg laktoositon;6408430214273;1;5;ltk;17,14;3,43;kg;19,54;Ei;Ei;17,14;2,4;0;96;VALIO OY TUORE;Jogurtit
+8072721;Valio Hyvä suomalainen Arki® turkkilainen jogurtti 6 % 400 g laktoositon;6408430221929;1;8;ltk;13,13;4,1;kg;14,97;Ei;Ei;13,13;1,84;0;96;VALIO OY TUORE;Jogurtit
+8078644;Valio Keittiön kuohukerma 2 dl;6408430015047;1;5;ltk;7,15;7,15;l;8,15;Ei;Ei;7,15;1,0;0;96;VALIO OY TUORE;Kermat
+8080820;Valio PROfeel® proteiinimousse 150 g suklaa laktoositon;6408430223503;1;12;ltk;17,19;9,55;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8089298;Oddlygood® Barista kaurajuoma 0,5 l pumpkin spice UHT gluteeniton;16430081490628;1;6;ltk;10,71;3,57;l;12,21;Ei;Ei;10,71;1,5;0;96;VALIO OY TUORE;Kasvipohjaiset maidonkaltaiset
+8042240;Valio Hyvä suomalainen Arki® ruokakerma 10 % 2 dl UHT HYLA®;6408430140732;1;15;ltk;9,05;3,02;l;10,32;Ei;Ei;9,05;1,27;0;96;VALIO OY TUORE;Kermat
+8061601;Valio kevytmaito 2,5 dl laktoositon UHT;6408430218530;1;15;ltk;10,58;2,82;l;12,06;Ei;Ei;10,58;1,48;0;96;VALIO OY TUORE;Maidot ja piimät
+8078691;Valio Koskenlaskija® juustotäyte 5 kg laktoositon;6408430873029;1;1;kpl;35,12;7,02;kg;40,04;Ei;Ei;35,12;4,92;0;96;VALIO OY TUORE;Muut juustot
+8079329;Oddlygood® e150 g grated mozzarella flavour;6408431305147;1;10;ltk;21,87;14,58;kg;24,93;Ei;Ei;21,87;3,06;0;96;VALIO OY TUORE;Kasvipohjaiset juustonkaltaiset
+8085247;Valio PROfeel® kerrosrahka 175 g vanilja & sitruuna laktoositon;6408431467609;1;12;ltk;15,12;7,2;kg;17,24;Ei;Ei;15,12;2,12;0;96;VALIO OY TUORE;Rahkat
+458588;Valio kahvikerma 10 % 3,3 dl laktoositon;6408430140312;1;10;ltk;23,91;7,25;l;27,26;Ei;Ei;23,91;3,35;0;96;VALIO OY TUORE;Kermat
+8089340;Oddlygood® Cooking Oat 2 dl original gluteeniton;16430081490772;1;10;ltk;9,0;4,5;l;10,26;Ei;Ei;9,0;1,26;0;96;VALIO OY TUORE;Kasvipohjaiset kermankaltaiset
+8004791;Valio Vanilla™ vaniljakastike 500 g laktoositon;6408430203505;1;10;ltk;32,54;6,51;kg;37,1;Ei;Ei;32,54;4,56;0;96;VALIO OY TUORE;Jälkiruokakastikkeet
+8050770;Valio Luomu™ gouda e275 g viipale;6408431303631;1;8;ltk;34,67;15,76;kg;39,52;Ei;Ei;34,67;4,85;0;96;VALIO OY TUORE;Viipalejuustot
+8078309;Valio PROfeel® proteiinivanukas 185 g suklaa-nougat makeutusaineeton laktoositon;6408430222742;1;12;ltk;17,19;7,74;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8078660;Valio Onni® vadelma-kaurapuuro 215 g UHT (alkaen 5 kk);6408430212200;1;15;ltk;23,87;7,4;kg;27,21;Ei;Ei;23,87;3,34;0;96;VALIO OY TUORE;Lasten ruoat
+8083904;Valio PROfeel® proteiinivanukas 180 g vanilja-marenki laktoositon;6408431466480;1;12;ltk;17,19;7,96;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8088052;Gold&Green® Delikaura® 1,5 kg Original;6408431469856;1;2;ltk;44,46;14,82;kg;50,68;Ei;Ei;44,46;6,22;0;96;VALIO OY TUORE;Kasviproteiinit
+8092939;Valio PROfeel® kerrosmousse 150 g vanilja & mansikka laktoositon;6408431476274;1;12;ltk;17,19;9,55;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8094072;Gold&Green® Härkis® härkäpapusuikale 2,5 kg Maustamaton;6408431477943;1;4;ltk;156,15;15,62;kg;178,01;Ei;Ei;156,15;21,86;0;96;VALIO OY TUORE;Kasviproteiinit
+8037766;Valio hedelmäinen jogurtti 150 g vadelma laktoositon;6408430212323;1;20;ltk;19,34;6,45;kg;22,05;Ei;Ei;19,34;2,71;0;96;VALIO OY TUORE;Jogurtit
+8078654;Valio lemon curd täyte 10 kg laktoositon;6408430872527;1;1;kpl;63,0;6,3;kg;71,82;Ei;Ei;63,0;8,82;0;96;VALIO OY TUORE;Hillot
+8085255;Valio mustikkatäyte 2,5 kg;6408430873562;1;1;kpl;27,75;11,1;kg;31,64;Ei;Ei;27,75;3,89;0;96;VALIO OY TUORE;Hillot
+8088041;Valio kreikkalainen jogurtti 150 g raparperi laktoositon;6408431470302;1;12;ltk;12,92;7,18;kg;14,73;Ei;Ei;12,92;1,81;0;96;VALIO OY TUORE;Jogurtit
+8089079;Gold&Green® Mureat ja mehevät suikaleet 240 g, Original;6408431472207;1;6;ltk;22,77;15,81;kg;25,96;Ei;Ei;22,77;3,19;0;96;VALIO OY TUORE;Kasviproteiinit
+8091645;Gold&Green® Vegenakki 220 g Chorizo;6408431475918;1;6;ltk;23,45;17,77;kg;26,73;Ei;Ei;23,45;3,28;0;96;VALIO OY TUORE;Kasviproteiinit
+8092920;Valio Gefilus® Kefir 2,5 dl persikka laktoositon;6408431477189;1;10;ltk;11,55;4,62;l;13,17;Ei;Ei;11,55;1,62;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+8008815;Valio kahvimaito 5 dl laktoositon;6408430100149;1;10;ltk;14,95;2,99;l;17,04;Ei;Ei;14,95;2,09;0;96;VALIO OY TUORE;Maidot ja piimät
+8085215;Valio Koskenlaskija® burgerviipale e900 g cheddar;6408431467203;1;4;ltk;52,84;14,68;kg;60,24;Ei;Ei;52,84;7,4;0;96;VALIO OY TUORE;Sulatejuustot
+8086873;Valio vapaan kanan munamassa 5 kg x 1 / 5 kg;6408430965243;1;1;kpl;36,4;7,28;kg;41,5;Ei;Ei;36,4;5,1;0;96;VALIO OY TUORE;Kananmunavalmisteet
+8087026;Oddlygood® Barista kaurajuoma 1 l Delight UHT gluteeniton;6408431468804;1;10;ltk;18,3;1,83;l;20,86;Ei;Ei;18,3;2,56;0;96;VALIO OY TUORE;Kasvipohjaiset maidonkaltaiset
+8044629;Valio Viola® e200 g valkosipuli tuorejuusto laktoositon;6408431303129;1;8;ltk;20,64;12,9;kg;23,53;Ei;Ei;20,64;2,89;0;96;VALIO OY TUORE;Tuorejuustot
+8053431;Valio kreikkalainen jogurtti 150 g mustikka-vanilja laktoositon;6408430215911;1;12;ltk;12,92;7,18;kg;14,73;Ei;Ei;12,92;1,81;0;96;VALIO OY TUORE;Jogurtit
+8078661;Valio juustoraaste 17 % e2,5 kg;6408431301514;1;2;ltk;42,38;8,48;kg;48,31;Ei;Ei;42,38;5,93;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8083913;Valio kerrosviili 1 % 200 g raparperipaistos laktoositon;6408431466541;1;20;ltk;15,56;3,89;kg;17,74;Ei;Ei;15,56;2,18;0;96;VALIO OY TUORE;Viilit
+8089211;Valio karpalo-puolukkatäyte 10 kg;6408430873937;1;1;kpl;70,5;7,05;kg;80,37;Ei;Ei;70,5;9,87;0;96;VALIO OY TUORE;Hillot
+8094005;Valio Play® minttukaakaojuoma 2,5 dl laktoositon;6408431477530;1;10;ltk;11,26;4,5;l;12,84;Ei;Ei;11,26;1,58;0;96;VALIO OY TUORE;Kaakao
+8044612;Valio Viilis® 200 g vanilja laktoositon;6408430213931;1;12;ltk;9,34;3,89;kg;10,65;Ei;Ei;9,34;1,31;0;96;VALIO OY TUORE;Viilit
+8047605;Valio Keittiön Kiehu® maitojuoma 1 l;6408430101306;1;5;ltk;8,8;1,76;l;10,03;Ei;Ei;8,8;1,23;0;96;VALIO OY TUORE;Maidot ja piimät
+8078752;Valio vaniljakreemitäyte 10 kg laktoositon;6408430872039;1;1;kpl;42,44;4,24;kg;48,38;Ei;Ei;42,44;5,94;0;96;VALIO OY TUORE;Leipomotuotteet ja leivontasuklaat
+8088148;Oddlygood® Dream Fraiche soy 200 g natural;16430081490345;1;6;ltk;7,73;6,44;kg;8,81;Ei;Ei;7,73;1,08;0;96;VALIO OY TUORE;Kasvipohjaiset ruoanvalmistustuotteet
+9906379;Valio AURA® e150 g murennettu sinihomejuusto;6408430331000;1;10;ltk;34,65;23,1;kg;39,5;Ei;Ei;34,65;4,85;0;96;VALIO OY TUORE;Sini- ja punahomejuustot
+8036250;Valio kreikkalainen jogurtti 150 g persikka laktoositon;6408430211494;1;12;ltk;12,92;7,18;kg;14,73;Ei;Ei;12,92;1,81;0;96;VALIO OY TUORE;Jogurtit
+8040018;Valio kreikkalainen jogurtti 150 g mansikka laktoositon;6408430213221;1;12;ltk;12,92;7,18;kg;14,73;Ei;Ei;12,92;1,81;0;96;VALIO OY TUORE;Jogurtit
+8043538;Valio Koskenlaskija® Ruoka & Dippi e250 g maustamaton laktoositon;6408431303068;1;6;ltk;21,58;14,39;kg;24,6;Ei;Ei;21,58;3,02;0;96;VALIO OY TUORE;Sulatejuustot
+8078682;Valio luumumarmeladi 6 kg;6408430877140;1;1;kpl;37,8;6,3;kg;43,09;Ei;Ei;37,8;5,29;0;96;VALIO OY TUORE;Marmeladit
+8080204;Valio Koskenlaskija® Ruoka & Dippi e250 g voimakas 14 % laktoositon;6408431305284;1;6;ltk;21,58;14,39;kg;24,6;Ei;Ei;21,58;3,02;0;96;VALIO OY TUORE;Sulatejuustot
+8090612;Valio PROfeel® proteiinimousse 150 g vadelma laktoositon;6408431469047;1;12;ltk;17,19;9,55;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Kermat
+9906247;Valio ruokakerma 15 % 10 l UHT laktoositon novobox;6408430014279;1;1;kpl;37,2;3,72;l;42,41;Ei;Ei;37,2;5,21;0;96;VALIO OY TUORE;Kermat
+9906607;Valio Gefilus® mehu 1 l viisi hedelmää;6408430060566;1;5;ltk;15,3;3,06;l;17,44;Ei;Ei;15,3;2,14;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8037710;Valio kirkaskuumahyytelö 5 kg;6408430870790;1;1;kpl;21,42;4,28;kg;24,42;Ei;Ei;21,42;3,0;0;96;VALIO OY TUORE;Soft Ice- ja jälkiruoka-ainekset
+8043537;Valio Koskenlaskija® Ruoka & Dippi e250 g cheddar laktoositon;6408431303075;1;6;ltk;21,58;14,39;kg;24,6;Ei;Ei;21,58;3,02;0;96;VALIO OY TUORE;Sulatejuustot
+8078712;Valio omenapalatäyte runsas 10 kg;6408430872749;1;1;kpl;56,0;5,6;kg;63,84;Ei;Ei;56,0;7,84;0;96;VALIO OY TUORE;Leipomotuotteet ja leivontasuklaat
+8087960;Gold&Green® Nyhtökaura® 240 g Maustamaton;6408431470098;1;6;ltk;22,77;15,81;kg;25,96;Ei;Ei;22,77;3,19;0;96;VALIO OY TUORE;Kasviproteiinit
+8088048;Gold&Green® Nyhtökaura® 240 g Tomaatti;6408431470111;1;6;ltk;22,77;15,81;kg;25,96;Ei;Ei;22,77;3,19;0;96;VALIO OY TUORE;Kasviproteiinit
+8090675;Gold&Green® Härkäpapu-Kaura Tofu 280 g Original;6408431472665;1;6;ltk;19,08;11,36;kg;21,75;Ei;Ei;19,08;2,67;0;96;VALIO OY TUORE;Kasviproteiinit
+8092964;Valio Balans kerrosjogurtti 150 g vadelma-vanilja-kaura rasvaton laktoositon;6408431476458;1;12;ltk;9,9;5,5;kg;11,29;Ei;Ei;9,9;1,39;0;96;VALIO OY TUORE;Jogurtit
+9906610;Valio glögi vaalea 1 l kausituote;6408430068432;1;5;ltk;7,99;1,6;l;9,11;Ei;Kyllä;10,43;1,12;0;96;VALIO OY TUORE;Mehut
+9906615;Valio Gefilus® mustikka-vadelmakeitto 1 kg;6408430202836;1;5;ltk;16,05;3,21;kg;18,3;Ei;Ei;16,05;2,25;0;96;VALIO OY TUORE;Mehukeitot
+8044613;Valio Oivariini® 400 g oliiviöljy ja hieno merisuola HYLA®;6408431303204;1;16;ltk;54,66;8,54;kg;62,31;Ei;Ei;54,66;7,65;0;96;VALIO OY TUORE;Margariinirasiat ja -paketit
+8050092;Valio Koskenlaskija® 15 g nappi sulatejuusto laktoositon;6408431303709;1;60;ltk;13,87;15,41;kg;15,81;Ei;Ei;13,87;1,94;0;96;VALIO OY TUORE;Sulatejuustot
+8078713;Valio mustikkatäyte 10 kg;6408430872510;1;1;kpl;90,0;9,0;kg;102,6;Ei;Ei;90,0;12,6;0;96;VALIO OY TUORE;Leipomotuotteet ja leivontasuklaat
+8091705;Valio Viilis® 200 g aarresaari laktoositon;6408431475475;1;12;ltk;9,34;3,89;kg;10,65;Ei;Ei;9,34;1,31;0;96;VALIO OY TUORE;Viilit
+9906259;Valiojogurtti® 1 kg uuniomena laktoositon;6408430203192;1;5;ltk;9,94;1,99;kg;11,33;Ei;Ei;9,94;1,39;0;96;VALIO OY TUORE;Jogurtit
+9906372;Valio Viola® kevyt e200 g ruohosipuli tuorejuusto laktoositon;6408430335220;1;8;ltk;20,64;12,9;kg;23,53;Ei;Ei;20,64;2,89;0;96;VALIO OY TUORE;Tuorejuustot
+9906521;Valio raejuusto 400 g;6408430200115;1;8;ltk;25,75;8,05;kg;29,36;Ei;Ei;25,75;3,61;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+459214;Valio Keittiön maustettu rahka 200 g vanilja laktoositon;6408430202447;1;12;ltk;22,68;9,45;kg;25,86;Ei;Ei;22,68;3,18;0;96;VALIO OY TUORE;Rahkat
+8035956;Valio Keittiön maustettu rahka 200 g mansikka laktoositon;6408430211739;1;12;ltk;22,68;9,45;kg;25,86;Ei;Ei;22,68;3,18;0;96;VALIO OY TUORE;Rahkat
+8048491;Valio Eila® kaulintavoi 4x5 kg suolaamaton laktoositon;6408431303433;1;1;pkt;224,5;11,23;kg;255,93;Ei;Ei;224,5;31,43;0;96;VALIO OY TUORE;Voirasiat ja -paketit
+8090580;Valio MiFU® e250 g suikale Paprika-chili laktoositon;6408431475031;1;6;ltk;20,61;13,74;kg;23,5;Ei;Ei;20,61;2,89;0;96;VALIO OY TUORE;Kasviproteiinit
+8090616;Valio MiFU® e250 g jauhis Original laktoositon;6408431474973;1;6;ltk;20,61;13,74;kg;23,5;Ei;Ei;20,61;2,89;0;96;VALIO OY TUORE;Kasviproteiinit
+8091702;Gold&Green® Vegenakki 220 g Frankfurter;6408431475895;1;6;ltk;23,45;17,77;kg;26,73;Ei;Ei;23,45;3,28;0;96;VALIO OY TUORE;Kasviproteiinit
+8092904;Valiojogurtti® 200 g mustaherukka laktoositon kausimaku;6408431477615;1;20;ltk;11,27;2,82;kg;12,85;Ei;Ei;11,27;1,58;0;96;VALIO OY TUORE;Jogurtit
+8092938;Valio glögikeitto 1 kg;6408431476762;1;5;ltk;15,04;3,01;kg;17,15;Ei;Ei;15,04;2,11;0;96;VALIO OY TUORE;Mehukeitot
+8021388;Valio Viola® kevyt e200 g yrtti tuorejuusto laktoositon;6408431301705;1;8;ltk;19,26;12,04;kg;21,96;Ei;Ei;19,26;2,7;0;96;VALIO OY TUORE;Tuorejuustot
+8040025;Valio Emmental sinileima e300 g viipale;6408431302825;1;8;ltk;37,15;15,48;kg;42,35;Ei;Ei;37,15;5,2;0;96;VALIO OY TUORE;Viipalejuustot
+8068579;Valio A+™ luonnonjogurtti 1 kg täyteläinen laktoositon;6408430220120;1;5;ltk;14,46;2,89;kg;16,48;Ei;Ei;14,46;2,02;0;96;VALIO OY TUORE;Jogurtit
+8078677;Valio Keittiön salaattijuusto kuutiot yrtti 160 g laktoositon;6408431303280;1;6;ltk;14,34;14,94;kg;16,35;Ei;Ei;14,34;2,01;0;96;VALIO OY TUORE;Fetat ja salaattijuustot
+8088143;Oddlygood® Barista kaurajuoma 1 l vanilja UHT gluteeniton;16430081490055;1;10;ltk;27,17;2,72;l;30,97;Ei;Ei;27,17;3,8;0;96;VALIO OY TUORE;Kasvipohjaiset maidonkaltaiset
+8089329;Oddlygood® Wonder Plant kaura-soijajuoma 2 dl suklaa UHT gluteeniton;16430081490659;1;10;ltk;6,9;3,45;l;7,87;Ei;Ei;6,9;0,97;0;96;VALIO OY TUORE;Kasvipohjaiset maidonkaltaiset
+8091657;Valio PROfeel® proteiinivanukas 185 g choco frutti makeutusaineeton laktoositon;6408431475345;1;12;ltk;17,19;7,74;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8092924;Valio paholaisen paprikatäyte 10 kg;6408430874071;1;1;kpl;63,0;6,3;kg;71,82;Ei;Ei;63,0;8,82;0;96;VALIO OY TUORE;Hillot
+9906199;Valio Keittiön kermaviili 200 g;6408430004621;1;12;ltk;8,64;3,6;kg;9,85;Ei;Ei;8,64;1,21;0;96;VALIO OY TUORE;Muut hapanmaitotuotteet
+9906357;Valio Viola® kevyt e200 g kolme pippuria tuorejuusto laktoositon;6408430335114;1;8;ltk;19,26;12,04;kg;21,96;Ei;Ei;19,26;2,7;0;96;VALIO OY TUORE;Tuorejuustot
+8088051;Gold&Green® Delikaura® 230 g Grillattu tomaatti;6408431469818;1;6;ltk;22,77;16,5;kg;25,96;Ei;Ei;22,77;3,19;0;96;VALIO OY TUORE;Kasviproteiinit
+8088071;Gold&Green® Nyhtökaura® 215 g Mexico;6408431469795;1;6;ltk;22,77;17,65;kg;25,96;Ei;Ei;22,77;3,19;0;96;VALIO OY TUORE;Kasviproteiinit
+8089110;Valio fruity curd täyte 5 kg laktoositon;6408430873944;1;1;kpl;39,0;7,8;kg;44,46;Ei;Ei;39,0;5,46;0;96;VALIO OY TUORE;Hillot
+8090588;Valio MiFU® e250 g jauhis Texmex laktoositon;6408431475017;1;6;ltk;20,61;13,74;kg;23,5;Ei;Ei;20,61;2,89;0;96;VALIO OY TUORE;Kasviproteiinit
+8091665;Valio PROfeel® proteiinirahka 400 g persikka laktoositon;6408431475314;1;8;ltk;15,32;4,79;kg;17,46;Ei;Ei;15,32;2,14;0;96;VALIO OY TUORE;Rahkat
+398073;Valio kuohukerma 20 l laktoositon novobox;6408430001439;1;1;lt;127,02;6,35;l;144,8;Ei;Ei;127,02;17,78;0;96;VALIO OY TUORE;Kermat
+8038737;Valio Keittiön vaahtoutuva vaniljakastike 2,5 dl UHT laktoositon;6408430212231;1;15;ltk;25,65;6,84;l;29,24;Ei;Ei;25,65;3,59;0;96;VALIO OY TUORE;Jälkiruokakastikkeet
+8070726;Valio kreikkalainen jogurtti 150 g mango laktoositon;6408430220663;1;12;ltk;12,93;7,18;kg;14,74;Ei;Ei;12,93;1,81;0;96;VALIO OY TUORE;Jogurtit
+8078590;Valio lakkahillo 2,5 kg;6408430871445;1;1;kpl;38,5;15,4;kg;43,89;Ei;Ei;38,5;5,39;0;96;VALIO OY TUORE;Hillot
+8078600;Valio lettuhillo 5 kg;6408430871452;1;1;kpl;28,78;5,76;kg;32,81;Ei;Ei;28,78;4,03;0;96;VALIO OY TUORE;Hillot
+8078624;Valio Hyvä suomalainen Arki® kevytmaitojuoma 1,75 l;6408430101610;1;12;ltk;22,99;1,09;l;26,21;Ei;Ei;22,99;3,22;0;96;VALIO OY TUORE;Maidot ja piimät
+8078703;Valio metsämansikkainen täyte 12 kg;6408430878949;1;1;kpl;84,0;7,0;kg;95,76;Ei;Ei;84,0;11,76;0;96;VALIO OY TUORE;Leipomotuotteet ja leivontasuklaat
+8085317;Oddlygood® Italian Style e100 g grated;6408431468408;1;12;ltk;27,9;23,25;kg;31,81;Ei;Ei;27,9;3,91;0;96;VALIO OY TUORE;Kasvipohjaiset juustonkaltaiset
+8090569;Valio MiFU® e250 g jauhis Bolognese laktoositon;6408431474997;1;6;ltk;20,61;13,74;kg;23,5;Ei;Ei;20,61;2,89;0;96;VALIO OY TUORE;Kasviproteiinit
+8090613;Valio AURA® juustotäyte 5 kg laktoositon;6408430873975;1;1;kpl;60,0;12,0;kg;68,4;Ei;Ei;60,0;8,4;0;96;VALIO OY TUORE;Palajuustot
+8094335;Valio Keisarinna® e300 g;6408431476069;1;6;ltk;41,74;23,19;kg;47,58;Ei;Ei;41,74;5,84;0;96;VALIO OY TUORE;Palajuustot
+9906348;Valio Emmental Punaleima e150 g juustoraaste;6408430330904;1;10;ltk;21,52;14,35;kg;24,53;Ei;Ei;21,52;3,01;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+9906386;Valio Emmental Punaleima e400 g juustoraaste;6408430333042;1;8;ltk;42,55;13,3;kg;48,51;Ei;Ei;42,55;5,96;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8002502;Valio Hyvä suomalainen Arki® rae 500 g;6408430205295;1;8;ltk;24,74;6,19;kg;28,2;Ei;Ei;24,74;3,46;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8011859;Valio Oivariini® juokseva 400 ml laktoositon;6408430310265;1;8;ltk;29,79;9,31;l;33,96;Ei;Ei;29,79;4,17;0;96;VALIO OY TUORE;Juoksevat margariinit
+8028191;Valio Luostari® e350 g;6408431302016;1;12;ltk;66,67;15,87;kg;76,0;Ei;Ei;66,67;9,33;0;96;VALIO OY TUORE;Palajuustot
+8036744;Valio Hedelmätarha® Tropiikki täysmehu 1 l hedelmälihaa;6408430063949;1;5;ltk;16,28;3,26;l;18,56;Ei;Ei;16,28;2,28;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8053025;Valio Oivariini® 550 g pehmeästi levittyvä ValSa® HYLA®;6408431303785;1;12;ltk;59,14;8,96;kg;67,42;Ei;Ei;59,14;8,28;0;96;VALIO OY TUORE;Margariinirasiat ja -paketit
+8053419;Valio juustoraasteseos hieno e2,5 kg;6408431301026;1;2;ltk;42,38;8,48;kg;48,31;Ei;Ei;42,38;5,93;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8065629;Valio Hyvä suomalainen Arki® emmentalviipale e400 g;6408431304683;1;8;ltk;34,04;10,64;kg;38,81;Ei;Ei;34,04;4,77;0;96;VALIO OY TUORE;Viipalejuustot
+8078509;Valio Hedelmätarha® hedelmä-mandariinitäysmehu 1 l hedelmälihaa;6408430063888;1;5;ltk;16,28;3,26;l;18,56;Ei;Ei;16,28;2,28;0;96;VALIO OY TUORE;Tuore- ja täysmehut
+8078699;Valio mansikka kakkuhillo 12 kg;6408430878215;1;1;kpl;75,6;6,3;kg;86,18;Ei;Ei;75,6;10,58;0;96;VALIO OY TUORE;Hillot
+8078707;Valio puolukkahillo 5 kg;6408430877171;1;1;kpl;35,25;7,05;kg;40,19;Ei;Ei;35,25;4,94;0;96;VALIO OY TUORE;Hillot
+8078732;Valio omenapala-kanelitäyte 12 kg;6408430870899;1;1;kpl;50,79;4,23;kg;57,9;Ei;Ei;50,79;7,11;0;96;VALIO OY TUORE;Leipomotuotteet ja leivontasuklaat
+8082888;Valio mansikka-kirsikkakeitto 1 kg Japani;6408431466138;1;5;ltk;15,08;3,02;kg;17,19;Ei;Ei;15,08;2,11;0;96;VALIO OY TUORE;Tukuittain kampanjatuotteet
+8092944;Valio Balans kerrosjogurtti 150 g omena-kaneli-kaura rasvaton laktoositon;6408431476427;1;12;ltk;9,9;5,5;kg;11,29;Ei;Ei;9,9;1,39;0;96;VALIO OY TUORE;Jogurtit
+9906382;Valio AURA® Gold 125 g;6408430332496;1;8;ltk;26,77;26,77;kg;30,52;Ei;Kyllä;34,96;3,75;0;96;VALIO OY TUORE;Sini- ja punahomejuustot
+9906448;Valio Aamupala® e200 g raikas 12 % sulatejuustoviipale laktoositon;6408431301835;1;12;ltk;30,96;12,9;kg;35,29;Ei;Ei;30,96;4,33;0;96;VALIO OY TUORE;Viipalejuustot
+458430;Valio Keittiön kuohukerma 3,3 dl laktoositon;6408430140305;1;10;ltk;28,65;8,68;l;32,66;Ei;Ei;28,65;4,01;0;96;VALIO OY TUORE;Kermat
+460725;Valio Polar® Levittyvä 9 % e400 g maustamaton sulatejuusto laktoositon;6408430335626;1;16;ltk;70,99;11,09;kg;80,93;Ei;Ei;70,99;9,94;0;96;VALIO OY TUORE;Tuorejuustot
+8018377;Valio Hyvä suomalainen Arki® juustoraaste e500 g;6408431301569;1;10;ltk;45,18;9,04;kg;51,51;Ei;Ei;45,18;6,33;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8022766;Valio Gefilus® OLO™ jogurtti 4x125 g luumu laktoositon;6408430207992;1;6;ltk;14,09;4,7;kg;16,06;Ei;Ei;14,09;1,97;0;96;VALIO OY TUORE;Jogurtit
+8072752;Valio Hyvä suomalainen Arki® juustoviipale e140 g;6408431305086;1;10;ltk;18,07;12,91;kg;20,6;Ei;Ei;18,07;2,53;0;96;VALIO OY TUORE;Viipalejuustot
+8078658;Valio Onni® omena-kaurapuuro 215 g UHT (alk 8 kk);6408430212224;1;15;ltk;23,87;7,4;kg;27,21;Ei;Ei;23,87;3,34;0;96;VALIO OY TUORE;Lasten ruoat
+8089180;Valio puolukkakeitto 1 kg;6408431471613;1;5;ltk;15,08;3,02;kg;17,19;Ei;Ei;15,08;2,11;0;96;VALIO OY TUORE;Mehukeitot
+8089282;Valio kahvimaitojuoma vanilja 1 l laktoositon UHT;6408431472450;1;10;ltk;21,56;2,16;l;24,58;Ei;Ei;21,56;3,02;0;96;VALIO OY TUORE;Maidot ja piimät
+8091694;Valio omena-vanilliinitäyte 10 kg;6408430874040;1;1;kpl;58,8;5,88;kg;67,03;Ei;Ei;58,8;8,23;0;96;VALIO OY TUORE;Hillot
+9906323;Valio voi 500 g voimakassuolainen;6408430315031;1;20;ltk;77,54;7,75;kg;88,4;Ei;Ei;77,54;10,86;0;96;VALIO OY TUORE;Voirasiat ja -paketit
+199802;Valio Play® maitokaakaojuoma 1 l laktoositon;6408430100262;1;5;ltk;14,18;;;16,17;Ei;Ei;14,18;1,99;0;96;VALIO OY TUORE;Kaakao
+8040010;Valio Luomu™ turkkilainen jogurtti 400 g;6408430213214;1;8;ltk;16,75;5,23;kg;19,1;Ei;Ei;16,75;2,35;0;96;VALIO OY TUORE;Jogurtit
+8042266;Valio Mustaleima™ Emmental e130 g juustoraaste;6408431302863;1;10;ltk;21,52;16,55;kg;24,53;Ei;Ei;21,52;3,01;0;96;VALIO OY TUORE;Juustoraasteet, -murut ja -lastut
+8044609;Valio kreikkalainen jogurtti 150 g uuniomena laktoositon;6408430213795;1;12;ltk;12,92;7,18;kg;14,73;Ei;Ei;12,92;1,81;0;96;VALIO OY TUORE;Jogurtit
+8046920;Valio Keittiön kermainen ruskea kastike 3 dl laktoositon;6408430140800;1;10;ltk;26,22;8,74;l;29,89;Ei;Ei;26,22;3,67;0;96;VALIO OY TUORE;Valmiskastikkeet
+8068614;Valio Turunmaa® e275 g viipale;6408431304898;1;8;ltk;37,15;16,89;kg;42,35;Ei;Ei;37,15;5,2;0;96;VALIO OY TUORE;Viipalejuustot
+8078580;Valio Keittiön kuohukerma 0,5 l;6408430015061;1;5;ltk;17,25;6,9;l;19,67;Ei;Ei;17,25;2,42;0;96;VALIO OY TUORE;Kermat
+8078619;Valio kuningatartäyte 12 kg;6408430872732;1;1;kpl;90,0;7,5;kg;102,6;Ei;Ei;90,0;12,6;0;96;VALIO OY TUORE;Leipomotuotteet ja leivontasuklaat
+8087000;Valio A+™ vaniljakerrosjogurtti ja kauramuro 200 g laktoositon gluteeniton;6408431468712;1;12;ltk;17,21;7,17;kg;19,62;Ei;Ei;17,21;2,41;0;96;VALIO OY TUORE;Jogurtit
+8089251;Valio punaherukka-vadelmamehu 1 l;6408431472146;1;5;ltk;14,7;2,94;l;16,76;Ei;Ei;14,7;2,06;0;96;VALIO OY TUORE;Mehut
+8089323;Valio PROfeel® kerrosmousse 150 g suklaa & appelsiini laktoositon;6408431471859;1;12;ltk;17,19;9,55;kg;19,6;Ei;Ei;17,19;2,41;0;96;VALIO OY TUORE;Vanukkaat ja välipalat
+8093003;Oddlygood® kaurapohjainen gurtti 1 kg uuniomena gluteeniton;16430081490604;1;6;ltk;18,0;3,0;kg;20,52;Ei;Ei;18,0;2,52;0;96;VALIO OY TUORE;Kasvipohjaiset jogurtin kaltaiset
+8094327;Valio Ritari® e300 g;6408431476120;1;6;ltk;41,74;23,19;kg;47,58;Ei;Ei;41,74;5,84;0;96;VALIO OY TUORE;Palajuustot
+9906326;Valio voi 400 g pöytärasia normaalisuolainen;6408430315093;1;16;ltk;63,47;9,92;kg;72,36;Ei;Ei;63,47;8,89;0;96;VALIO OY TUORE;Voirasiat ja -paketit
+9906358;Valio Viola® kevyt e200 g paprika-chili tuorejuusto laktoositon;6408430335121;1;8;ltk;19,26;12,04;kg;21,96;Ei;Ei;19,26;2,7;0;96;VALIO OY TUORE;Tuorejuustot
+8011867;Valio Koskenlaskija® e200 g levittyvä sulatejuusto laktoositon;6408431301064;1;12;ltk;32,86;13,69;kg;37,46;Ei;Ei;32,86;4,6;0;96;VALIO OY TUORE;Tuorejuustot
+8039214;Valio Hyvä suomalainen Arki® rasvaton maitojuoma 1 l;6408430100798;1;20;ltk;18,86;0,94;l;21,5;Ei;Ei;18,86;2,64;0;96;VALIO OY TUORE;Maidot ja piimät
+8040023;Valio voi 4x5 kg suolaamaton;6408430030439;1;4;ltk;178,6;8,93;kg;203,6;Ei;Ei;178,6;25,0;0;96;VALIO OY TUORE;Voirasiat ja -paketit
+8042242;Valio hedelmäinen jogurtti 150 g ananas laktoositon;6408430213429;1;20;ltk;19,34;6,45;kg;22,05;Ei;Ei;19,34;2,71;0;96;VALIO OY TUORE;Jogurtit
+8042262;Valio Polar® Leppäsavu e270 g viipale;6408431302849;1;8;ltk;37,15;17,2;kg;42,35;Ei;Ei;37,15;5,2;0;96;VALIO OY TUORE;Viipalejuustot
+8050065;Valio Koskenlaskija® e200 g cheddar sulatejuustoviipale laktoositon;6408431303686;1;12;ltk;32,4;13,5;kg;36,94;Ei;Ei;32,4;4,54;0;96;VALIO OY TUORE;Viipalejuustot
+8064608;Valio luumu leipomomarmeladi 25 kg;6408430877638;1;1;kpl;123,75;4,95;kg;141,08;Ei;Ei;123,75;17,33;0;96;VALIO OY TUORE;Marmeladit
+8068664;Oddlygood® e1 kg grated;6408431304836;1;4;ltk;52,94;13,24;kg;60,35;Ei;Ei;52,94;7,41;0;96;VALIO OY TUORE;Kasvipohjaiset juustonkaltaiset
+8078596;Valio aprikoositäyte 12 kg;6408430878956;1;1;kpl;63,84;5,32;kg;72,78;Ei;Ei;63,84;8,94;0;96;VALIO OY TUORE;Hillot
+8078685;Valio mansikkakeitto 250 g sokeroimaton;6408430220472;1;15;ltk;17,55;4,68;kg;20,01;Ei;Ei;17,55;2,46;0;96;VALIO OY TUORE;Marmeladit
+8078688;Valio vadelmahillo 5 kg;6408430878833;1;1;kpl;33,75;6,75;kg;38,48;Ei;Ei;33,75;4,73;0;96;VALIO OY TUORE;Hillot
+8078706;Valio Onni® persikka-kaurapuuro 215 g UHT (alk  8 kk);6408430213139;1;15;ltk;23,87;7,4;kg;27,21;Ei;Ei;23,87;3,34;0;96;VALIO OY TUORE;Lasten ruoat
+8082905;Valio Oltermanni® Monterey Jack e270 g viipale;6408431465841;1;8;ltk;36,48;16,89;kg;41,59;Ei;Ei;36,48;5,11;0;96;VALIO OY TUORE;Viipalejuustot
+8087029;Valio Keittiön maustettu rahka 200 g vadelma laktoositon;6408431468729;1;12;ltk;22,68;9,45;kg;25,86;Ei;Ei;22,68;3,18;0;96;VALIO OY TUORE;Rahkat
+8089176;Valio kardemumma curd täyte 10 kg laktoositon;6408430873807;1;1;kpl;70,0;7,0;kg;79,8;Ei;Ei;70,0;9,8;0;96;VALIO OY TUORE;Hillot
+8091703;Valio Luonnonjogurtti+™ banaani 1 kg ei lisättyä sokeria, laktoositon;6408431475734;1;5;ltk;13,29;2,66;kg;15,15;Ei;Ei;13,29;1,86;0;96;VALIO OY TUORE;Jogurtit
+8092991;Oddlygood® Barista kaurajuoma 1 l nutty vanilla ei lisättyä sokeria UHT gluteeniton;16430081491298;1;6;ltk;16,3;2,72;l;18,58;Ei;Ei;16,3;2,28;0;96;VALIO OY TUORE;Kasvipohjaiset maidonkaltaiset
+8094030;Valio Latte mint maitokahvijuoma 2,5 dl laktoositon;6408431477493;1;10;ltk;11,26;4,5;l;12,84;Ei;Ei;11,26;1,58;0;96;VALIO OY TUORE;Valmiit kahvijuomat
+8094373;Valio Mustaleima™ e245 g;6408431473006;1;6;ltk;42,07;28,62;kg;47,96;Ei;Ei;42,07;5,89;0;96;VALIO OY TUORE;Palajuustot
+8158;Valio rasvaton piimä 1 l HYLA®;6408430018062;1;5;ltk;8,63;1,73;l;9,84;Ei;Ei;8,63;1,21;0;96;VALIO OY TUORE;Maidot ja piimät
+8021376;Valio Polar® e2,5 kg juustokuutio;6408431301736;1;2;ltk;61,32;12,26;kg;69,9;Ei;Ei;61,32;8,58;0;96;VALIO OY TUORE;Palajuustot
+8037833;Valio Koskenlaskija® e250 g kylmäsavuporo sulatejuusto laktoositon;6408431302658;1;10;ltk;35,98;14,39;kg;41,02;Ei;Ei;35,98;5,04;0;96;VALIO OY TUORE;Sulatejuustot
+8039196;Valio Polar® Alkuperäinen 15 % e300 g viipale;6408431302771;1;8;ltk;37,15;15,48;kg;42,35;Ei;Ei;37,15;5,2;0;96;VALIO OY TUORE;Viipalejuustot

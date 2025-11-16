@@ -1,0 +1,517 @@
+{
+  "10624565": {
+    "order_number": "10624565",
+    "customer_number": "35354",
+    "order_date": "2025-08-28 00:00:00",
+    "items": [
+      {
+        "product_code": "413706",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "409435",
+        "order_qty": 5.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "404063",
+        "order_qty": 8.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "410604",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "402217",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "409109",
+        "order_qty": 30.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "408154",
+        "order_qty": 7.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "416561",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400432",
+        "order_qty": 4.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "408150",
+        "order_qty": 4.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "412245",
+        "order_qty": 3.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400375",
+        "order_qty": 4.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "411771",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400441",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "403425",
+        "order_qty": 12.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400965",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "402531",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "415968",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400135",
+        "order_qty": 4.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "404452",
+        "order_qty": 4.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400127",
+        "order_qty": 3.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "414532",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "406196",
+        "order_qty": 50.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400204",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "403930",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "402961",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "411744",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400283",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "414098",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "409021",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "407092",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400436",
+        "order_qty": 8.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "413153",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "411617",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "403008",
+        "order_qty": 4.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "415886",
+        "order_qty": 7.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "405270",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "417117",
+        "order_qty": 1.0,
+        "is_stockout": 1
+      },
+      {
+        "product_code": "409309",
+        "order_qty": 0.5,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400315",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "408314",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "402274",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "413312",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "404413",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "402402",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "402942",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "404925",
+        "order_qty": 2.0,
+        "is_stockout": 1
+      },
+      {
+        "product_code": "401250",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "408340",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "408373",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "405948",
+        "order_qty": 3.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "415668",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "414255",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "408291",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "416760",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "401157",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "414049",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "403583",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "402613",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "402618",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "414247",
+        "order_qty": 0.9,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "405378",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "412646",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "412349",
+        "order_qty": 1.35,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "402045",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "407928",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "411567",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      }
+    ],
+    "total_items": 67
+  },
+  "10624566": {
+    "order_number": "10624566",
+    "customer_number": "33180",
+    "order_date": "2025-08-28 00:00:00",
+    "items": [
+      {
+        "product_code": "406852",
+        "order_qty": 16.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "406744",
+        "order_qty": 11.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400552",
+        "order_qty": 6.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400172",
+        "order_qty": 6.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "416431",
+        "order_qty": 6.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "401561",
+        "order_qty": 6.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "400164",
+        "order_qty": 6.0,
+        "is_stockout": 0
+      }
+    ],
+    "total_items": 7
+  },
+  "10624567": {
+    "order_number": "10624567",
+    "customer_number": "32415",
+    "order_date": "2025-08-28 00:00:00",
+    "items": [
+      {
+        "product_code": "401055",
+        "order_qty": 5.0,
+        "is_stockout": 1
+      },
+      {
+        "product_code": "401055",
+        "order_qty": 5.0,
+        "is_stockout": 1
+      },
+      {
+        "product_code": "401055",
+        "order_qty": 5.0,
+        "is_stockout": 1
+      },
+      {
+        "product_code": "401055",
+        "order_qty": 5.0,
+        "is_stockout": 1
+      },
+      {
+        "product_code": "401055",
+        "order_qty": 5.0,
+        "is_stockout": 1
+      },
+      {
+        "product_code": "406938",
+        "order_qty": 3.0,
+        "is_stockout": 0
+      }
+    ],
+    "total_items": 6
+  },
+  "10624568": {
+    "order_number": "10624568",
+    "customer_number": "32415",
+    "order_date": "2025-08-28 00:00:00",
+    "items": [
+      {
+        "product_code": "403552",
+        "order_qty": 6.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "416900",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "405104",
+        "order_qty": 5.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "405105",
+        "order_qty": 6.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "413576",
+        "order_qty": 4.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "408326",
+        "order_qty": 12.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "416504",
+        "order_qty": 5.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "415055",
+        "order_qty": 2.0,
+        "is_stockout": 0
+      }
+    ],
+    "total_items": 8
+  },
+  "10624572": {
+    "order_number": "10624572",
+    "customer_number": "32007",
+    "order_date": "2025-08-28 00:00:00",
+    "items": [
+      {
+        "product_code": "402929",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "403605",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "405821",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "414404",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "416548",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "414456",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      },
+      {
+        "product_code": "414467",
+        "order_qty": 1.0,
+        "is_stockout": 0
+      }
+    ],
+    "total_items": 7
+  }
+}

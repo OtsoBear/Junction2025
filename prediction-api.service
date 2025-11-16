@@ -1,0 +1,16 @@
+[Unit]
+Description=Stockout Prediction API
+After=network.target
+
+[Service]
+Type=simple
+User=otso
+WorkingDirectory=/home/otso/Junction
+Environment="PATH=/home/otso/Junction/.venv-py311/bin:/usr/local/bin:/usr/bin:/bin"
+Environment="PORT=5000"
+ExecStart=/home/otso/Junction/.venv-py311/bin/python /home/otso/Junction/src/04_prediction_api.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

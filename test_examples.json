@@ -1,0 +1,29 @@
+{
+  "low_risk": {
+    "product_code": "8043409",
+    "order_qty": 2.0,
+    "customer_number": "33345",
+    "lead_time_days": "3",
+    "plant": "30588",
+    "sales_unit": "kpl",
+    "actual_stockout": 0
+  },
+  "high_risk": {
+    "product_code": "8043409",
+    "order_qty": 5.0,
+    "customer_number": "33345",
+    "lead_time_days": "3",
+    "plant": "30588",
+    "sales_unit": "kpl",
+    "actual_stockout": 1
+  },
+  "borderline": {
+    "product_code": "8043409",
+    "order_qty": 2.0,
+    "customer_number": "33345",
+    "lead_time_days": "1",
+    "plant": "30588",
+    "sales_unit": "kpl",
+    "actual_stockout": 0
+  }
+}

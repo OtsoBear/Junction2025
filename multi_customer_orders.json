@@ -1,0 +1,180 @@
+{
+  "orders": [
+    {
+      "order_number": "ORD_BAKERY_001",
+      "customer_number": "99999",
+      "customer_name": "Sweet Dreams Bakery",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T06:00:00",
+      "order_qty": 95.0,
+      "plant": "30588",
+      "product_code": "8230",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_BAKERY_001",
+      "customer_number": "99999",
+      "customer_name": "Sweet Dreams Bakery",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T06:00:00",
+      "order_qty": 32.0,
+      "plant": "30588",
+      "product_code": "8054679",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_BAKERY_001",
+      "customer_number": "99999",
+      "customer_name": "Sweet Dreams Bakery",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T06:00:00",
+      "order_qty": 28.0,
+      "plant": "30588",
+      "product_code": "8042234",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_BAKERY_001",
+      "customer_number": "99999",
+      "customer_name": "Sweet Dreams Bakery",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T06:00:00",
+      "order_qty": 22.0,
+      "plant": "30588",
+      "product_code": "8086873",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_BAKERY_001",
+      "customer_number": "99999",
+      "customer_name": "Sweet Dreams Bakery",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T06:00:00",
+      "order_qty": 18.0,
+      "plant": "30588",
+      "product_code": "8078686",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_BAKERY_001",
+      "customer_number": "99999",
+      "customer_name": "Sweet Dreams Bakery",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T06:00:00",
+      "order_qty": 24.0,
+      "plant": "30588",
+      "product_code": "8042224",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_BAKERY_001",
+      "customer_number": "99999",
+      "customer_name": "Sweet Dreams Bakery",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T06:00:00",
+      "order_qty": 9.0,
+      "plant": "30588",
+      "product_code": "8078752",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_CAFE_002",
+      "customer_number": "88888",
+      "customer_name": "City Center Cafe",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T07:00:00",
+      "order_qty": 15.0,
+      "plant": "30588",
+      "product_code": "8042224",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_CAFE_002",
+      "customer_number": "88888",
+      "customer_name": "City Center Cafe",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T07:00:00",
+      "order_qty": 8.0,
+      "plant": "30588",
+      "product_code": "8230",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_RESTAURANT_003",
+      "customer_number": "77777",
+      "customer_name": "Gourmet House Restaurant",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T06:30:00",
+      "order_qty": 12.0,
+      "plant": "30588",
+      "product_code": "8027",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_RESTAURANT_003",
+      "customer_number": "77777",
+      "customer_name": "Gourmet House Restaurant",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T06:30:00",
+      "order_qty": 6.0,
+      "plant": "30588",
+      "product_code": "8054679",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_RESTAURANT_003",
+      "customer_number": "77777",
+      "customer_name": "Gourmet House Restaurant",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T06:30:00",
+      "order_qty": 4.0,
+      "plant": "30588",
+      "product_code": "8023043",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_HOTEL_004",
+      "customer_number": "66666",
+      "customer_name": "Grand Hotel Breakfast Service",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T05:00:00",
+      "order_qty": 45.0,
+      "plant": "30588",
+      "product_code": "8079322",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_HOTEL_004",
+      "customer_number": "66666",
+      "customer_name": "Grand Hotel Breakfast Service",
+      "lead_time_days": 1,
+      "order_date": "2025-11-16T05:00:00",
+      "order_qty": 25.0,
+      "plant": "30588",
+      "product_code": "8042230",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_SCHOOL_005",
+      "customer_number": "55555",
+      "customer_name": "Helsinki School District Cafeteria",
+      "lead_time_days": 2,
+      "order_date": "2025-11-16T08:00:00",
+      "order_qty": 80.0,
+      "plant": "30588",
+      "product_code": "8079270",
+      "sales_unit": "kpl"
+    },
+    {
+      "order_number": "ORD_SCHOOL_005",
+      "customer_number": "55555",
+      "customer_name": "Helsinki School District Cafeteria",
+      "lead_time_days": 2,
+      "order_date": "2025-11-16T08:00:00",
+      "order_qty": 35.0,
+      "plant": "30588",
+      "product_code": "8078297",
+      "sales_unit": "kpl"
+    }
+  ]
+}
