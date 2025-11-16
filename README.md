@@ -1,4 +1,4 @@
-# 🚀 Junction 2025 - Stockout Prediction System
+# Junction 2025 - Stockout Prediction System
 
 **AI-powered logistics intelligence for Valio Aimo**
 
@@ -12,12 +12,12 @@ Predicts product stockouts before they happen using machine learning.
 ## The Intelligence
 
 **Analyzes:**
-- ⏰ Temporal patterns (seasonality, rush hours, lead times)
-- 📦 Product behavior (historical rates, replacements, popularity)
-- 👥 Customer segments (VIP, order frequency, lead time preferences)
-- 🏭 Warehouse performance (plant capacity, storage locations)
-- 🚚 Supplier reliability (delivery consistency)
-- ❄️ Freshness risks (perishables + time pressure)
+- Temporal patterns (seasonality, rush hours, lead times)
+- Product behavior (historical rates, replacements, popularity)
+- Customer segments (VIP, order frequency, lead time preferences)
+- Warehouse performance (plant capacity, storage locations)
+- Supplier reliability (delivery consistency)
+- Freshness risks (perishables + time pressure)
 
 **Could analyze with more data:**
 - Weather events → demand spikes
@@ -46,4 +46,4 @@ curl -X POST http://localhost:5555/predict \
 - **API**: FastAPI with <100ms latency
 - **Deployment**: Systemd + Nginx production-ready
 
-Built for Junction 2025 🎯
+Built for Junction 2025
